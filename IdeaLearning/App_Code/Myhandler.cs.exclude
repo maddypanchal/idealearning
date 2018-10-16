@@ -1,0 +1,82 @@
+﻿using System;
+using System.Data;
+using System.Configuration;
+using System.Linq;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Xml.Linq;
+using System.Collections.Generic;
+
+/// <summary>
+/// Summary description for Myhandler
+/// </summary>
+public class Myhandler: System.Web.UI.Page, IHttpModule
+{
+    Page _page = null;
+
+    Queue<string> temp;
+
+    public Myhandler()
+	{
+        temp=new Queue<string>();
+	}
+    public new void Init(HttpApplication context)
+    {
+
+        context.PreRequestHandlerExecute += new EventHandler(context_PreRequestHandlerExecute);
+    }
+    
+    void context_PreRequestHandlerExecute(object sender, EventArgs e)
+    
+    {
+       System.Web.HttpContext _httpContext = System.Web.HttpContext.Current;
+        if (_httpContext != null)
+        {
+            _page = _httpContext.Handler as System.Web.UI.Page;
+            if (_page != null)
+            {
+               _page.Init += new EventHandler(_page_Init);
+               _page.Load += new EventHandler(_page_Load);
+            }
+            else
+            {
+                return;
+            }
+        }
+        else
+        {
+            return;
+        }
+    }
+    void _page_Init(object sender, EventArgs e)
+    {
+        HiddenField hdnGuid = new HiddenField();
+        hdnGuid.ID = "hdnGuid";
+        if (!_page.IsPostBack)
+            hdnGuid.Value = Guid.NewGuid().ToString();
+        _page.Form.Controls.Add(hdnGuid);
+    }
+
+    void _page_Load(object sender, EventArgs e)
+    {
+        HiddenField h1 = (HiddenField)(_page.Form.FindControl("hdnGuid"));
+        GuidClass currentGuid =new GuidClass();
+        currentGuid.Guid= h1.Value;
+        System.Web.HttpContext _httpContext = System.Web.HttpContext.Current;
+
+        if (temp.Contains<string>(currentGuid.Guid))
+        {
+            _httpContext.Items.Add("IsRefresh",true);
+        }
+        else
+        {
+            if(!(currentGuid.Guid.Equals(null)||currentGuid.Guid.Equals("")))
+                temp.Enqueue(currentGuid.Guid);
+            _httpContext.Items.Add("IsRefresh",false);
+        }
+    }
+}

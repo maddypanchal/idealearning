@@ -1,0 +1,278 @@
+
+.container {
+	width:400px;
+	padding:0;
+	margin:0 auto;
+}
+.img-indent {
+	float:left;
+	margin:0 30px 0px 0;
+}
+.img-indent2 {
+	float:left;
+	margin:0 13px 0px 0;
+}
+.img-indent-r {
+	float:right;
+	margin:0 0px 0px 40px;
+}
+.buttons a:hover {
+	cursor:pointer;
+}
+/*********************************header*************************************/
+/*********************************content*************************************/
+#content {
+	 background:#ffffff;
+	 margin-top:1%;
+    margin-left: 10px;
+    padding: 15px 0 50px;
+    position: relative;
+    width: 1000px;
+    z-index: 1;
+}
+.spacer-1 {
+	width:100%;
+	background: 217px 0 repeat-y;
+}
+h3 {
+	font-size:24px;
+	line-height:2em;
+	color:#404040;
+	font-weight:normal;
+	letter-spacing:-1px;
+	margin-bottom:5px;
+}
+h5 {
+	margin-bottom:2px;
+}
+h6 {
+	color:#769e02;
+}
+.border-bot {
+	width:100%;
+	padding-bottom:20px;
+	background: 0 bottom repeat-x;
+}
+.box {
+	width:100%;
+	background:0 0 repeat-x;
+}
+.button-1 {
+	display:inline-block;
+	padding:12px 19px;
+	font-size:13px;
+	line-height:1.23em;
+	color:#fff;
+	background:url(../images/button1-tail.gif) 0 0 repeat-x #c42e02;
+	cursor:pointer;
+}
+.button-1:hover {
+	background:#c42e02;
+}
+.button-2 {
+	display:inline-block;
+	padding:12px 19px;
+	font-size:13px;
+	line-height:1.23em;
+	color:#fff;
+	background:url(../images/button2-tail.gif) 0 0 repeat-x #779f02;
+	cursor:pointer;
+}
+.button-2:hover {
+	background:#779f02;
+}
+.list-1 li {
+	line-height:18px;
+	padding:6px 0 6px 20px;
+	background:url(../images/marker-1.png) 0 12px no-repeat;
+}
+.list-1 a {
+	display:inline-block;
+	color:#7f7f7f;
+}
+.list-1 a:hover {
+	color:#000;
+	text-decoration:underline;
+}
+.list-1 span {
+	display:block;
+	line-height:25px;
+	padding:8px 0 17px;
+}
+.list-1 strong {
+	display:block;
+}
+.list-2 {
+	width:270px;
+}
+.list-2 dt {
+	font-weight:bold;
+	margin-bottom:5px;
+}
+.list-2 dt, .list-2 dd {
+	width:100%;
+	overflow:hidden;
+}
+.list-2 em {
+	font-style:normal;
+	float:left;
+}
+.list-2 span {
+	float:right;
+	text-align:right;
+	width:auto;
+	font-weight:normal;
+}
+.list-2 dt span {
+	font-weight:bold;
+}
+.price-list li {
+	overflow: hidden;
+	vertical-align: top;
+	line-height: 18px;
+	padding:6px 0 6px 20px;
+	background:url(../images/marker-2.png) 0 12px no-repeat;
+}
+.price-list strong {
+	display: block;
+	overflow: hidden;
+}
+.price-list span {
+	float: right;
+	color: #7f7f7f;
+}
+.price-list a {
+	float: left;
+	text-decoration: none;
+	color: #7f7f7f;
+}
+.price-list a:hover {
+	color:#81a60b;
+	text-decoration:underline;
+}
+.link:hover {
+	text-decoration:underline;
+}
+.link-1 {
+	display:inline-block;
+	font-size:14px;
+	padding-right:8px;
+	background:right 8px no-repeat;
+}
+.link-1:hover {
+	color:#fff;
+}
+.text-1 {
+	font-size:14px;
+}
+dl span {
+	float:left;
+	width:96px;
+	font-weight:bold;
+}
+/***** bx-slider *****/
+.bx-wrapper {
+	overflow:hidden;
+	position:relative;
+}
+#page2 .bx-wrapper {
+	width:450px !important;
+	height:545px;
+}
+#page3 .bx-wrapper {
+	width:940px !important;
+	height:580px;
+}
+.bx-window {
+	height:510px;
+	overflow:hidden;
+	width:100%;
+	position:relative;
+}
+#page3 .bx-window {
+	height:710px;
+}
+#slider {
+	width:100%;
+	height:510px;
+	overflow:hidden;
+}
+#slider > div {
+	overflow:hidden;
+	width:160px;
+	height:510px;
+}
+#slider-2 > div {
+	overflow:hidden;
+	width:240px;
+	height:710px;
+}
+#slider figure {
+	margin-bottom:8px;
+}
+#slider-2 figure {
+	margin-bottom:17px;
+}
+#slider-2 h5 {
+	margin-bottom:5px
+}
+.bx-next {
+	display:inline-block;
+	font-size:19px;
+	line-height:1.2em;
+	color:#72ad1a;
+	text-transform:capitalize;
+	text-decoration:none;
+	position:absolute;
+	z-index:99;
+	left:63px;
+	bottom:4px;
+}
+.bx-prev {
+	display:none !important;
+}
+.bx-pager {
+	padding:16px 0 0 0;
+	text-align:center;
+}
+#page3 .bx-pager {
+	text-align:right;
+	padding:23px 20px 0 0;
+}
+.pager-link {
+	display:inline-block;
+	color:#c42e02;
+	margin-right:12px;
+	cursor:pointer;
+	text-decoration:none;
+}
+.pager-link:hover, .pager-active {
+	color:#7f7f7f;
+}
+.pager-active {
+	cursor:default;
+}
+/***** Lightbox image *****/
+.lightbox-image {
+	position:relative;
+	z-index:1;
+	overflow:hidden;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+}
+.lightbox-image img {
+	position:relative;
+	z-index:1;
+}
+.lightbox-image span {
+	display:inline-block;
+	position:absolute;
+	left:0px;
+	top:-100%;
+	width:100%;
+	height:100%;
+	background:url(../images/magnify.png) no-repeat 50% 50%;
+	z-index:2;
+	padding:0;
+}

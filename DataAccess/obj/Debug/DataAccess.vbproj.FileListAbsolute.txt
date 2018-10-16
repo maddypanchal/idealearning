@@ -1,0 +1,759 @@
+G:\HR\DataAccess\bin\Debug\DataAccess.dll
+G:\HR\DataAccess\bin\Debug\DataAccess.pdb
+G:\HR\DataAccess\bin\Debug\DataAccess.xml
+G:\HR\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+G:\HR\DataAccess\obj\Debug\DataAccess.Resources.resources
+G:\HR\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+G:\HR\DataAccess\obj\Debug\DataAccess.dll
+G:\HR\DataAccess\obj\Debug\DataAccess.xml
+G:\HR\DataAccess\obj\Debug\DataAccess.pdb
+F:\Projects\HRCSharp\HRCSharp\DataAccess\bin\Debug\DataAccess.dll
+F:\Projects\HRCSharp\HRCSharp\DataAccess\bin\Debug\DataAccess.pdb
+F:\Projects\HRCSharp\HRCSharp\DataAccess\bin\Debug\DataAccess.xml
+F:\Projects\HRCSharp\HRCSharp\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\HRCSharp\HRCSharp\DataAccess\obj\Debug\DataAccess.Resources.resources
+F:\Projects\HRCSharp\HRCSharp\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+F:\Projects\HRCSharp\HRCSharp\DataAccess\obj\Debug\DataAccess.dll
+F:\Projects\HRCSharp\HRCSharp\DataAccess\obj\Debug\DataAccess.xml
+F:\Projects\HRCSharp\HRCSharp\DataAccess\obj\Debug\DataAccess.pdb
+D:\Work\HR Application\HRApp_CS\DataAccess\bin\Debug\DataAccess.dll
+D:\Work\HR Application\HRApp_CS\DataAccess\bin\Debug\DataAccess.pdb
+D:\Work\HR Application\HRApp_CS\DataAccess\bin\Debug\DataAccess.xml
+D:\Work\HR Application\HRApp_CS\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\HR Application\HRApp_CS\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Work\HR Application\HRApp_CS\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\Work\HR Application\HRApp_CS\DataAccess\obj\Debug\DataAccess.dll
+D:\Work\HR Application\HRApp_CS\DataAccess\obj\Debug\DataAccess.xml
+D:\Work\HR Application\HRApp_CS\DataAccess\obj\Debug\DataAccess.pdb
+D:\Work\HR Application\HRApp_Demo\DataAccess\bin\Debug\DataAccess.dll
+D:\Work\HR Application\HRApp_Demo\DataAccess\bin\Debug\DataAccess.pdb
+D:\Work\HR Application\HRApp_Demo\DataAccess\bin\Debug\DataAccess.xml
+D:\Work\HR Application\HRApp_Demo\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\HR Application\HRApp_Demo\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Work\HR Application\HRApp_Demo\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\Work\HR Application\HRApp_Demo\DataAccess\obj\Debug\DataAccess.dll
+D:\Work\HR Application\HRApp_Demo\DataAccess\obj\Debug\DataAccess.xml
+D:\Work\HR Application\HRApp_Demo\DataAccess\obj\Debug\DataAccess.pdb
+F:\projects\onlineBookStore\onlineBook\DataAccess\bin\Debug\DataAccess.dll
+F:\projects\onlineBookStore\onlineBook\DataAccess\bin\Debug\DataAccess.pdb
+F:\projects\onlineBookStore\onlineBook\DataAccess\bin\Debug\DataAccess.xml
+F:\projects\onlineBookStore\onlineBook\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\projects\onlineBookStore\onlineBook\DataAccess\obj\Debug\DataAccess.Resources.resources
+F:\projects\onlineBookStore\onlineBook\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+F:\projects\onlineBookStore\onlineBook\DataAccess\obj\Debug\DataAccess.dll
+F:\projects\onlineBookStore\onlineBook\DataAccess\obj\Debug\DataAccess.xml
+F:\projects\onlineBookStore\onlineBook\DataAccess\obj\Debug\DataAccess.pdb
+F:\projects\questionBank\Elite_Web\DataAccess\bin\Debug\DataAccess.dll
+F:\projects\questionBank\Elite_Web\DataAccess\bin\Debug\DataAccess.pdb
+F:\projects\questionBank\Elite_Web\DataAccess\bin\Debug\DataAccess.xml
+F:\projects\questionBank\Elite_Web\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\projects\questionBank\Elite_Web\DataAccess\obj\Debug\DataAccess.Resources.resources
+F:\projects\questionBank\Elite_Web\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+F:\projects\questionBank\Elite_Web\DataAccess\obj\Debug\DataAccess.dll
+F:\projects\questionBank\Elite_Web\DataAccess\obj\Debug\DataAccess.xml
+F:\projects\questionBank\Elite_Web\DataAccess\obj\Debug\DataAccess.pdb
+F:\projects\VisionMkt\Vision\DataAccess\bin\Debug\DataAccess.dll
+F:\projects\VisionMkt\Vision\DataAccess\bin\Debug\DataAccess.pdb
+F:\projects\VisionMkt\Vision\DataAccess\bin\Debug\DataAccess.xml
+F:\projects\VisionMkt\Vision\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\projects\VisionMkt\Vision\DataAccess\obj\Debug\DataAccess.Resources.resources
+F:\projects\VisionMkt\Vision\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+F:\projects\VisionMkt\Vision\DataAccess\obj\Debug\DataAccess.dll
+F:\projects\VisionMkt\Vision\DataAccess\obj\Debug\DataAccess.xml
+F:\projects\VisionMkt\Vision\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects\VisionMkt\Vision\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\VisionMkt\Vision\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\VisionMkt\Vision\DataAccess\bin\Debug\DataAccess.xml
+D:\Projects\VisionMkt\Vision\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\VisionMkt\Vision\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Projects\VisionMkt\Vision\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\Projects\VisionMkt\Vision\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\VisionMkt\Vision\DataAccess\obj\Debug\DataAccess.xml
+D:\Projects\VisionMkt\Vision\DataAccess\obj\Debug\DataAccess.pdb
+F:\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.dll
+F:\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.pdb
+F:\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.xml
+F:\SAMS APPKICATION\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.Resources.resources
+F:\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+F:\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.dll
+F:\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.xml
+F:\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.pdb
+E:\Projects\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.dll
+E:\Projects\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.pdb
+E:\Projects\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.xml
+E:\Projects\SAMS APPKICATION\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.Resources.resources
+E:\Projects\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+E:\Projects\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.dll
+E:\Projects\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.xml
+E:\Projects\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects\SAMS APPKICATION fINAL\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\SAMS APPKICATION fINAL\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\SAMS APPKICATION fINAL\DataAccess\bin\Debug\DataAccess.xml
+D:\Projects\SAMS APPKICATION fINAL\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SAMS APPKICATION fINAL\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Projects\SAMS APPKICATION fINAL\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\Projects\SAMS APPKICATION fINAL\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\SAMS APPKICATION fINAL\DataAccess\obj\Debug\DataAccess.xml
+D:\Projects\SAMS APPKICATION fINAL\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.xml
+D:\Projects\SAMS APPKICATION\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Projects\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\Projects\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.xml
+D:\Projects\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\path\Desktop\31 Aug SAMS\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\path\Desktop\31 Aug SAMS\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\path\Desktop\31 Aug SAMS\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\path\Desktop\31 Aug SAMS\SAMS APPKICATION\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\path\Desktop\31 Aug SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.Resources.resources
+C:\Users\path\Desktop\31 Aug SAMS\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.read.1.tlog
+C:\Users\path\Desktop\31 Aug SAMS\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.write.1.tlog
+C:\Users\path\Desktop\31 Aug SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\path\Desktop\31 Aug SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.xml
+C:\Users\path\Desktop\31 Aug SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.pdb
+F:\2 Sep SAMS\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.dll
+F:\2 Sep SAMS\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.pdb
+F:\2 Sep SAMS\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.xml
+F:\2 Sep SAMS\SAMS APPKICATION\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\2 Sep SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.Resources.resources
+F:\2 Sep SAMS\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.read.1.tlog
+F:\2 Sep SAMS\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.write.1.tlog
+F:\2 Sep SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.dll
+F:\2 Sep SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.xml
+F:\2 Sep SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects\3 Sep SAMS\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\3 Sep SAMS\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\3 Sep SAMS\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.xml
+D:\Projects\3 Sep SAMS\SAMS APPKICATION\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\3 Sep SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Projects\3 Sep SAMS\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.read.1.tlog
+D:\Projects\3 Sep SAMS\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.write.1.tlog
+D:\Projects\3 Sep SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\3 Sep SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.xml
+D:\Projects\3 Sep SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects\Final SAMS\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\Final SAMS\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\Final SAMS\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.xml
+D:\Projects\Final SAMS\SAMS APPKICATION\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Final SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Projects\Final SAMS\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.read.1.tlog
+D:\Projects\Final SAMS\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.write.1.tlog
+D:\Projects\Final SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\Final SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.xml
+D:\Projects\Final SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\path\Desktop\Final SAMS\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\path\Desktop\Final SAMS\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\path\Desktop\Final SAMS\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\path\Desktop\Final SAMS\SAMS APPKICATION\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\path\Desktop\Final SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.Resources.resources
+C:\Users\path\Desktop\Final SAMS\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.read.1.tlog
+C:\Users\path\Desktop\Final SAMS\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.write.1.tlog
+C:\Users\path\Desktop\Final SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\path\Desktop\Final SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.xml
+C:\Users\path\Desktop\Final SAMS\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\stunner\Desktop\Stunner SAMS 16 SEP\Stunner\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\stunner\Desktop\Stunner SAMS 16 SEP\Stunner\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\stunner\Desktop\Stunner SAMS 16 SEP\Stunner\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\stunner\Desktop\Stunner SAMS 16 SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stunner\Desktop\Stunner SAMS 16 SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.Resources.resources
+C:\Users\stunner\Desktop\Stunner SAMS 16 SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.read.1.tlog
+C:\Users\stunner\Desktop\Stunner SAMS 16 SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.write.1.tlog
+C:\Users\stunner\Desktop\Stunner SAMS 16 SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\stunner\Desktop\Stunner SAMS 16 SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.xml
+C:\Users\stunner\Desktop\Stunner SAMS 16 SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\stunner\Desktop\Stunner SAMS 19SEP\Stunner\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\stunner\Desktop\Stunner SAMS 19SEP\Stunner\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\stunner\Desktop\Stunner SAMS 19SEP\Stunner\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\stunner\Desktop\Stunner SAMS 19SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stunner\Desktop\Stunner SAMS 19SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.Resources.resources
+C:\Users\stunner\Desktop\Stunner SAMS 19SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.read.1.tlog
+C:\Users\stunner\Desktop\Stunner SAMS 19SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.write.1.tlog
+C:\Users\stunner\Desktop\Stunner SAMS 19SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\stunner\Desktop\Stunner SAMS 19SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.xml
+C:\Users\stunner\Desktop\Stunner SAMS 19SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\stunner\Desktop\Stunner SAMS 22 SEP\Stunner\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\stunner\Desktop\Stunner SAMS 22 SEP\Stunner\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\stunner\Desktop\Stunner SAMS 22 SEP\Stunner\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\stunner\Desktop\Stunner SAMS 22 SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stunner\Desktop\Stunner SAMS 22 SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.Resources.resources
+C:\Users\stunner\Desktop\Stunner SAMS 22 SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.read.1.tlog
+C:\Users\stunner\Desktop\Stunner SAMS 22 SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.write.1.tlog
+C:\Users\stunner\Desktop\Stunner SAMS 22 SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\stunner\Desktop\Stunner SAMS 22 SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.xml
+C:\Users\stunner\Desktop\Stunner SAMS 22 SEP\Stunner\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects\SAMS APPLICATION\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\SAMS APPLICATION\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\SAMS APPLICATION\SAMS APPKICATION\DataAccess\bin\Debug\DataAccess.xml
+D:\Projects\SAMS APPLICATION\SAMS APPKICATION\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SAMS APPLICATION\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Projects\SAMS APPLICATION\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.read.1.tlog
+D:\Projects\SAMS APPLICATION\SAMS APPKICATION\DataAccess\obj\Debug\ResGen.write.1.tlog
+D:\Projects\SAMS APPLICATION\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\SAMS APPLICATION\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.xml
+D:\Projects\SAMS APPLICATION\SAMS APPKICATION\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects\SAMS CHENNAI\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\SAMS CHENNAI\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\SAMS CHENNAI\DataAccess\bin\Debug\DataAccess.xml
+D:\Projects\SAMS CHENNAI\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SAMS CHENNAI\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Projects\SAMS CHENNAI\DataAccess\obj\Debug\ResGen.read.1.tlog
+D:\Projects\SAMS CHENNAI\DataAccess\obj\Debug\ResGen.write.1.tlog
+D:\Projects\SAMS CHENNAI\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\SAMS CHENNAI\DataAccess\obj\Debug\DataAccess.xml
+D:\Projects\SAMS CHENNAI\DataAccess\obj\Debug\DataAccess.pdb
+G:\reet\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+G:\reet\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+G:\reet\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+G:\reet\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+G:\reet\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+G:\reet\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+G:\reet\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+G:\reet\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+D:\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+D:\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+D:\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+D:\BKSCPL Builder\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\BKSCPL Builder\DataAccess\obj\Debug\ResGen.read.1.tlog
+D:\BKSCPL Builder\DataAccess\obj\Debug\ResGen.write.1.tlog
+D:\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+D:\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+D:\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+G:\reet\BUILDER 12 OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+G:\reet\BUILDER 12 OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+G:\reet\BUILDER 12 OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+G:\reet\BUILDER 12 OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+G:\reet\BUILDER 12 OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+G:\reet\BUILDER 12 OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+G:\reet\BUILDER 12 OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+G:\reet\BUILDER 12 OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+G:\reet\BUILDER SOFTWARE\BUILDER 12 OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+G:\reet\BUILDER SOFTWARE\BUILDER 12 OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+G:\reet\BUILDER SOFTWARE\BUILDER 12 OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+G:\reet\BUILDER SOFTWARE\BUILDER 12 OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+G:\reet\BUILDER SOFTWARE\BUILDER 12 OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+G:\reet\BUILDER SOFTWARE\BUILDER 12 OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+G:\reet\BUILDER SOFTWARE\BUILDER 12 OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+G:\reet\BUILDER SOFTWARE\BUILDER 12 OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+G:\reet\BUILDER SOFTWARE\BUILDER 13_ OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+G:\reet\BUILDER SOFTWARE\BUILDER 13_ OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+G:\reet\BUILDER SOFTWARE\BUILDER 13_ OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+G:\reet\BUILDER SOFTWARE\BUILDER 13_ OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+G:\reet\BUILDER SOFTWARE\BUILDER 13_ OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+G:\reet\BUILDER SOFTWARE\BUILDER 13_ OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+G:\reet\BUILDER SOFTWARE\BUILDER 13_ OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+G:\reet\BUILDER SOFTWARE\BUILDER 13_ OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+G:\reet\BUILDER SOFTWARE\BUILDER_15OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+G:\reet\BUILDER SOFTWARE\BUILDER_15OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+G:\reet\BUILDER SOFTWARE\BUILDER_15OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+G:\reet\BUILDER SOFTWARE\BUILDER_15OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+G:\reet\BUILDER SOFTWARE\BUILDER_15OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+G:\reet\BUILDER SOFTWARE\BUILDER_15OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+G:\reet\BUILDER SOFTWARE\BUILDER_15OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+G:\reet\BUILDER SOFTWARE\BUILDER_15OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+D:\Inventory Management(BKSCPL)\17 oct\BUILDER_15OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+D:\Inventory Management(BKSCPL)\17 oct\BUILDER_15OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+D:\Inventory Management(BKSCPL)\17 oct\BUILDER_15OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+D:\Inventory Management(BKSCPL)\17 oct\BUILDER_15OCT\BKSCPL Builder\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Inventory Management(BKSCPL)\17 oct\BUILDER_15OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Inventory Management(BKSCPL)\17 oct\BUILDER_15OCT\BKSCPL Builder\DataAccess\obj\Debug\ResGen.read.1.tlog
+D:\Inventory Management(BKSCPL)\17 oct\BUILDER_15OCT\BKSCPL Builder\DataAccess\obj\Debug\ResGen.write.1.tlog
+D:\Inventory Management(BKSCPL)\17 oct\BUILDER_15OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+D:\Inventory Management(BKSCPL)\17 oct\BUILDER_15OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+D:\Inventory Management(BKSCPL)\17 oct\BUILDER_15OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+G:\reet\BUILDER SOFTWARE\BUILDER_18OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+G:\reet\BUILDER SOFTWARE\BUILDER_18OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+G:\reet\BUILDER SOFTWARE\BUILDER_18OCT\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+G:\reet\BUILDER SOFTWARE\BUILDER_18OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+G:\reet\BUILDER SOFTWARE\BUILDER_18OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+G:\reet\BUILDER SOFTWARE\BUILDER_18OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+G:\reet\BUILDER SOFTWARE\BUILDER_18OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+G:\reet\BUILDER SOFTWARE\BUILDER_18OCT\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+D:\Inventory Management(BKSCPL)\BKSCPL\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+D:\Inventory Management(BKSCPL)\BKSCPL\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+D:\Inventory Management(BKSCPL)\BKSCPL\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+D:\Inventory Management(BKSCPL)\BKSCPL\BKSCPL Builder\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Inventory Management(BKSCPL)\BKSCPL\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Inventory Management(BKSCPL)\BKSCPL\BKSCPL Builder\DataAccess\obj\Debug\ResGen.read.1.tlog
+D:\Inventory Management(BKSCPL)\BKSCPL\BKSCPL Builder\DataAccess\obj\Debug\ResGen.write.1.tlog
+D:\Inventory Management(BKSCPL)\BKSCPL\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+D:\Inventory Management(BKSCPL)\BKSCPL\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+D:\Inventory Management(BKSCPL)\BKSCPL\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+G:\reet\BUILDER SOFTWARE\BKSCPL Correct\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+G:\reet\BUILDER SOFTWARE\BKSCPL Correct\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+G:\reet\BUILDER SOFTWARE\BKSCPL Correct\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+G:\reet\BUILDER SOFTWARE\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+G:\reet\BUILDER SOFTWARE\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+G:\reet\BUILDER SOFTWARE\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+G:\reet\BUILDER SOFTWARE\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+G:\reet\BUILDER SOFTWARE\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+D:\Inventory Management(BKSCPL)\BKSCPL Correct\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+D:\Inventory Management(BKSCPL)\BKSCPL Correct\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+D:\Inventory Management(BKSCPL)\BKSCPL Correct\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+D:\Inventory Management(BKSCPL)\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Inventory Management(BKSCPL)\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Inventory Management(BKSCPL)\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\ResGen.read.1.tlog
+D:\Inventory Management(BKSCPL)\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\ResGen.write.1.tlog
+D:\Inventory Management(BKSCPL)\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+D:\Inventory Management(BKSCPL)\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+D:\Inventory Management(BKSCPL)\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+H:\BKSCPL_23  OCT\BKSCPL Correct\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+H:\BKSCPL_23  OCT\BKSCPL Correct\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+H:\BKSCPL_23  OCT\BKSCPL Correct\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+H:\BKSCPL_23  OCT\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+H:\BKSCPL_23  OCT\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+H:\BKSCPL_23  OCT\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\BKSCPL_23  OCT\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\BKSCPL_23  OCT\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+H:\BKSCPL_23  OCT\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+H:\BKSCPL_23  OCT\BKSCPL Correct\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+D:\After Change BKSCPL master page\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+D:\After Change BKSCPL master page\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+D:\After Change BKSCPL master page\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+D:\After Change BKSCPL master page\BKSCPL Builder\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\After Change BKSCPL master page\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\After Change BKSCPL master page\BKSCPL Builder\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\After Change BKSCPL master page\BKSCPL Builder\DataAccess\obj\Debug\ResGen.read.1.tlog
+D:\After Change BKSCPL master page\BKSCPL Builder\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\After Change BKSCPL master page\BKSCPL Builder\DataAccess\obj\Debug\ResGen.write.1.tlog
+D:\After Change BKSCPL master page\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+D:\After Change BKSCPL master page\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+D:\After Change BKSCPL master page\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+G:\4 nov\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+G:\4 nov\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+G:\4 nov\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+G:\4 nov\BKSCPL Builder\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+G:\4 nov\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+G:\4 nov\BKSCPL Builder\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\4 nov\BKSCPL Builder\DataAccess\obj\Debug\ResGen.read.1.tlog
+G:\4 nov\BKSCPL Builder\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\4 nov\BKSCPL Builder\DataAccess\obj\Debug\ResGen.write.1.tlog
+G:\4 nov\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+G:\4 nov\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+G:\4 nov\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+G:\newdesign\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+G:\newdesign\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+G:\newdesign\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+G:\newdesign\BKSCPL Builder\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+G:\newdesign\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+G:\newdesign\BKSCPL Builder\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\newdesign\BKSCPL Builder\DataAccess\obj\Debug\ResGen.read.1.tlog
+G:\newdesign\BKSCPL Builder\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\newdesign\BKSCPL Builder\DataAccess\obj\Debug\ResGen.write.1.tlog
+G:\newdesign\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+G:\newdesign\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+G:\newdesign\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+D:\BKSCPL_NOV\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+D:\BKSCPL_NOV\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+D:\BKSCPL_NOV\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+D:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\ResGen.read.1.tlog
+D:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\ResGen.write.1.tlog
+D:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+D:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+D:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+G:\BKSCPL_NOV\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+G:\BKSCPL_NOV\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+G:\BKSCPL_NOV\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+G:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+G:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+G:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\ResGen.read.1.tlog
+G:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\ResGen.write.1.tlog
+G:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+G:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+G:\BKSCPL_NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+D:\BKSCPL_10NOV\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+D:\BKSCPL_10NOV\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+D:\BKSCPL_10NOV\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+D:\BKSCPL_10NOV\BKSCPL Builder\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\BKSCPL_10NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\BKSCPL_10NOV\BKSCPL Builder\DataAccess\obj\Debug\ResGen.read.1.tlog
+D:\BKSCPL_10NOV\BKSCPL Builder\DataAccess\obj\Debug\ResGen.write.1.tlog
+D:\BKSCPL_10NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+D:\BKSCPL_10NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+D:\BKSCPL_10NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+D:\BKSCPL_26NOV\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.dll
+D:\BKSCPL_26NOV\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.pdb
+D:\BKSCPL_26NOV\BKSCPL Builder\DataAccess\bin\Debug\DataAccess.xml
+D:\BKSCPL_26NOV\BKSCPL Builder\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\BKSCPL_26NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\BKSCPL_26NOV\BKSCPL Builder\DataAccess\obj\Debug\ResGen.read.1.tlog
+D:\BKSCPL_26NOV\BKSCPL Builder\DataAccess\obj\Debug\ResGen.write.1.tlog
+D:\BKSCPL_26NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.dll
+D:\BKSCPL_26NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.xml
+D:\BKSCPL_26NOV\BKSCPL Builder\DataAccess\obj\Debug\DataAccess.pdb
+D:\REETIKA\Project ACMS\ACMS_18.1.13\DataAccess\bin\Debug\DataAccess.dll
+D:\REETIKA\Project ACMS\ACMS_18.1.13\DataAccess\bin\Debug\DataAccess.pdb
+D:\REETIKA\Project ACMS\ACMS_18.1.13\DataAccess\bin\Debug\DataAccess.xml
+D:\REETIKA\Project ACMS\ACMS_18.1.13\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\REETIKA\Project ACMS\ACMS_18.1.13\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\REETIKA\Project ACMS\ACMS_18.1.13\DataAccess\obj\Debug\ResGen.read.1.tlog
+D:\REETIKA\Project ACMS\ACMS_18.1.13\DataAccess\obj\Debug\ResGen.write.1.tlog
+D:\REETIKA\Project ACMS\ACMS_18.1.13\DataAccess\obj\Debug\DataAccess.dll
+D:\REETIKA\Project ACMS\ACMS_18.1.13\DataAccess\obj\Debug\DataAccess.xml
+D:\REETIKA\Project ACMS\ACMS_18.1.13\DataAccess\obj\Debug\DataAccess.pdb
+D:\DEMO_APPLICATION\DataAccess\bin\Debug\DataAccess.dll
+D:\DEMO_APPLICATION\DataAccess\bin\Debug\DataAccess.pdb
+D:\DEMO_APPLICATION\DataAccess\bin\Debug\DataAccess.xml
+D:\DEMO_APPLICATION\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\DEMO_APPLICATION\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\DEMO_APPLICATION\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\DEMO_APPLICATION\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\DEMO_APPLICATION\DataAccess\obj\Debug\DataAccess.dll
+D:\DEMO_APPLICATION\DataAccess\obj\Debug\DataAccess.xml
+D:\DEMO_APPLICATION\DataAccess\obj\Debug\DataAccess.pdb
+D:\AspDotNet\ProjectManagementSystem\DataAccess\bin\Debug\DataAccess.dll
+D:\AspDotNet\ProjectManagementSystem\DataAccess\bin\Debug\DataAccess.pdb
+D:\AspDotNet\ProjectManagementSystem\DataAccess\bin\Debug\DataAccess.xml
+D:\AspDotNet\ProjectManagementSystem\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\AspDotNet\ProjectManagementSystem\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\AspDotNet\ProjectManagementSystem\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\AspDotNet\ProjectManagementSystem\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\AspDotNet\ProjectManagementSystem\DataAccess\obj\Debug\DataAccess.dll
+D:\AspDotNet\ProjectManagementSystem\DataAccess\obj\Debug\DataAccess.xml
+D:\AspDotNet\ProjectManagementSystem\DataAccess\obj\Debug\DataAccess.pdb
+F:\YooneekCoachingManagement\DataAccess\bin\Debug\DataAccess.dll
+F:\YooneekCoachingManagement\DataAccess\bin\Debug\DataAccess.pdb
+F:\YooneekCoachingManagement\DataAccess\bin\Debug\DataAccess.xml
+F:\YooneekCoachingManagement\DataAccess\obj\Debug\DataAccess.Resources.resources
+F:\YooneekCoachingManagement\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+F:\YooneekCoachingManagement\DataAccess\obj\Debug\DataAccess.dll
+F:\YooneekCoachingManagement\DataAccess\obj\Debug\DataAccess.xml
+F:\YooneekCoachingManagement\DataAccess\obj\Debug\DataAccess.pdb
+F:\InviteYou\DataAccess\bin\Debug\DataAccess.dll
+F:\InviteYou\DataAccess\bin\Debug\DataAccess.pdb
+F:\InviteYou\DataAccess\bin\Debug\DataAccess.xml
+F:\InviteYou\DataAccess\obj\Debug\DataAccess.Resources.resources
+F:\InviteYou\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+F:\InviteYou\DataAccess\obj\Debug\DataAccess.dll
+F:\InviteYou\DataAccess\obj\Debug\DataAccess.xml
+F:\InviteYou\DataAccess\obj\Debug\DataAccess.pdb
+D:\OraExperts\DataAccess\bin\Debug\DataAccess.dll
+D:\OraExperts\DataAccess\bin\Debug\DataAccess.pdb
+D:\OraExperts\DataAccess\bin\Debug\DataAccess.xml
+D:\OraExperts\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\OraExperts\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\OraExperts\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\OraExperts\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\OraExperts\DataAccess\obj\Debug\DataAccess.dll
+D:\OraExperts\DataAccess\obj\Debug\DataAccess.xml
+D:\OraExperts\DataAccess\obj\Debug\DataAccess.pdb
+D:\Aryan Computers\DataAccess\bin\Debug\DataAccess.dll
+D:\Aryan Computers\DataAccess\bin\Debug\DataAccess.pdb
+D:\Aryan Computers\DataAccess\bin\Debug\DataAccess.xml
+D:\Aryan Computers\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Aryan Computers\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Aryan Computers\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Aryan Computers\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Aryan Computers\DataAccess\obj\Debug\DataAccess.dll
+D:\Aryan Computers\DataAccess\obj\Debug\DataAccess.xml
+D:\Aryan Computers\DataAccess\obj\Debug\DataAccess.pdb
+D:\CadSoftCenter\DataAccess\bin\Debug\DataAccess.dll
+D:\CadSoftCenter\DataAccess\bin\Debug\DataAccess.pdb
+D:\CadSoftCenter\DataAccess\bin\Debug\DataAccess.xml
+D:\CadSoftCenter\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\CadSoftCenter\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\CadSoftCenter\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CadSoftCenter\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CadSoftCenter\DataAccess\obj\Debug\DataAccess.dll
+D:\CadSoftCenter\DataAccess\obj\Debug\DataAccess.xml
+D:\CadSoftCenter\DataAccess\obj\Debug\DataAccess.pdb
+E:\d\CadSoftCenter\DataAccess\bin\Debug\DataAccess.dll
+E:\d\CadSoftCenter\DataAccess\bin\Debug\DataAccess.pdb
+E:\d\CadSoftCenter\DataAccess\bin\Debug\DataAccess.xml
+E:\d\CadSoftCenter\DataAccess\obj\Debug\DataAccess.Resources.resources
+E:\d\CadSoftCenter\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+E:\d\CadSoftCenter\DataAccess\obj\Debug\DataAccess.dll
+E:\d\CadSoftCenter\DataAccess\obj\Debug\DataAccess.xml
+E:\d\CadSoftCenter\DataAccess\obj\Debug\DataAccess.pdb
+D:\CadSoftCenterNew\CadSoftCenter\DataAccess\bin\Debug\DataAccess.dll
+D:\CadSoftCenterNew\CadSoftCenter\DataAccess\bin\Debug\DataAccess.pdb
+D:\CadSoftCenterNew\CadSoftCenter\DataAccess\bin\Debug\DataAccess.xml
+D:\CadSoftCenterNew\CadSoftCenter\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\CadSoftCenterNew\CadSoftCenter\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\CadSoftCenterNew\CadSoftCenter\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CadSoftCenterNew\CadSoftCenter\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CadSoftCenterNew\CadSoftCenter\DataAccess\obj\Debug\DataAccess.dll
+D:\CadSoftCenterNew\CadSoftCenter\DataAccess\obj\Debug\DataAccess.xml
+D:\CadSoftCenterNew\CadSoftCenter\DataAccess\obj\Debug\DataAccess.pdb
+D:\9thPlanetHotals\DataAccess\bin\Debug\DataAccess.dll
+D:\9thPlanetHotals\DataAccess\bin\Debug\DataAccess.pdb
+D:\9thPlanetHotals\DataAccess\bin\Debug\DataAccess.xml
+D:\9thPlanetHotals\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\9thPlanetHotals\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\9thPlanetHotals\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\9thPlanetHotals\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\9thPlanetHotals\DataAccess\obj\Debug\DataAccess.dll
+D:\9thPlanetHotals\DataAccess\obj\Debug\DataAccess.xml
+D:\9thPlanetHotals\DataAccess\obj\Debug\DataAccess.pdb
+D:\IdeaEducationAcdemy\DataAccess\bin\Debug\DataAccess.dll
+D:\IdeaEducationAcdemy\DataAccess\bin\Debug\DataAccess.pdb
+D:\IdeaEducationAcdemy\DataAccess\bin\Debug\DataAccess.xml
+D:\IdeaEducationAcdemy\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\IdeaEducationAcdemy\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\IdeaEducationAcdemy\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\IdeaEducationAcdemy\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\IdeaEducationAcdemy\DataAccess\obj\Debug\DataAccess.dll
+D:\IdeaEducationAcdemy\DataAccess\obj\Debug\DataAccess.xml
+D:\IdeaEducationAcdemy\DataAccess\obj\Debug\DataAccess.pdb
+E:\Projects\IdeaEducationAcdemy\rakesh\DataAccess\bin\Debug\DataAccess.dll
+E:\Projects\IdeaEducationAcdemy\rakesh\DataAccess\bin\Debug\DataAccess.pdb
+E:\Projects\IdeaEducationAcdemy\rakesh\DataAccess\bin\Debug\DataAccess.xml
+E:\Projects\IdeaEducationAcdemy\rakesh\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\IdeaEducationAcdemy\rakesh\DataAccess\obj\Debug\DataAccess.Resources.resources
+E:\Projects\IdeaEducationAcdemy\rakesh\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Projects\IdeaEducationAcdemy\rakesh\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Projects\IdeaEducationAcdemy\rakesh\DataAccess\obj\Debug\DataAccess.dll
+E:\Projects\IdeaEducationAcdemy\rakesh\DataAccess\obj\Debug\DataAccess.xml
+E:\Projects\IdeaEducationAcdemy\rakesh\DataAccess\obj\Debug\DataAccess.pdb
+D:\IdeaEducationAcdemy\rakesh\DataAccess\bin\Debug\DataAccess.dll
+D:\IdeaEducationAcdemy\rakesh\DataAccess\bin\Debug\DataAccess.pdb
+D:\IdeaEducationAcdemy\rakesh\DataAccess\bin\Debug\DataAccess.xml
+D:\IdeaEducationAcdemy\rakesh\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\IdeaEducationAcdemy\rakesh\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\IdeaEducationAcdemy\rakesh\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\IdeaEducationAcdemy\rakesh\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\IdeaEducationAcdemy\rakesh\DataAccess\obj\Debug\DataAccess.dll
+D:\IdeaEducationAcdemy\rakesh\DataAccess\obj\Debug\DataAccess.xml
+D:\IdeaEducationAcdemy\rakesh\DataAccess\obj\Debug\DataAccess.pdb
+O:\IdeaEdu_New\develop\DataAccess\bin\Debug\DataAccess.dll
+O:\IdeaEdu_New\develop\DataAccess\bin\Debug\DataAccess.pdb
+O:\IdeaEdu_New\develop\DataAccess\bin\Debug\DataAccess.xml
+O:\IdeaEdu_New\develop\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+O:\IdeaEdu_New\develop\DataAccess\obj\Debug\DataAccess.Resources.resources
+O:\IdeaEdu_New\develop\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+O:\IdeaEdu_New\develop\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+O:\IdeaEdu_New\develop\DataAccess\obj\Debug\DataAccess.dll
+O:\IdeaEdu_New\develop\DataAccess\obj\Debug\DataAccess.xml
+O:\IdeaEdu_New\develop\DataAccess\obj\Debug\DataAccess.pdb
+W:\IdeaEdu_New\develop\DataAccess\bin\Debug\DataAccess.dll
+W:\IdeaEdu_New\develop\DataAccess\bin\Debug\DataAccess.pdb
+W:\IdeaEdu_New\develop\DataAccess\bin\Debug\DataAccess.xml
+W:\IdeaEdu_New\develop\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+W:\IdeaEdu_New\develop\DataAccess\obj\Debug\DataAccess.Resources.resources
+W:\IdeaEdu_New\develop\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+W:\IdeaEdu_New\develop\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+W:\IdeaEdu_New\develop\DataAccess\obj\Debug\DataAccess.dll
+W:\IdeaEdu_New\develop\DataAccess\obj\Debug\DataAccess.xml
+W:\IdeaEdu_New\develop\DataAccess\obj\Debug\DataAccess.pdb
+E:\Dipesh_IdeaEdu_New\develop\DataAccess\bin\Debug\DataAccess.dll
+E:\Dipesh_IdeaEdu_New\develop\DataAccess\bin\Debug\DataAccess.pdb
+E:\Dipesh_IdeaEdu_New\develop\DataAccess\bin\Debug\DataAccess.xml
+E:\Dipesh_IdeaEdu_New\develop\DataAccess\obj\Debug\DataAccess.Resources.resources
+E:\Dipesh_IdeaEdu_New\develop\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+E:\Dipesh_IdeaEdu_New\develop\DataAccess\obj\Debug\DataAccess.dll
+E:\Dipesh_IdeaEdu_New\develop\DataAccess\obj\Debug\DataAccess.xml
+E:\Dipesh_IdeaEdu_New\develop\DataAccess\obj\Debug\DataAccess.pdb
+E:\Idea Edu version 1\develop\DataAccess\bin\Debug\DataAccess.dll
+E:\Idea Edu version 1\develop\DataAccess\bin\Debug\DataAccess.pdb
+E:\Idea Edu version 1\develop\DataAccess\bin\Debug\DataAccess.xml
+E:\Idea Edu version 1\develop\DataAccess\obj\Debug\DataAccess.Resources.resources
+E:\Idea Edu version 1\develop\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+E:\Idea Edu version 1\develop\DataAccess\obj\Debug\DataAccess.dll
+E:\Idea Edu version 1\develop\DataAccess\obj\Debug\DataAccess.xml
+E:\Idea Edu version 1\develop\DataAccess\obj\Debug\DataAccess.pdb
+E:\Projects\Project_1002\Idea Edu version 1\develop\DataAccess\bin\Debug\DataAccess.dll
+E:\Projects\Project_1002\Idea Edu version 1\develop\DataAccess\bin\Debug\DataAccess.pdb
+E:\Projects\Project_1002\Idea Edu version 1\develop\DataAccess\bin\Debug\DataAccess.xml
+E:\Projects\Project_1002\Idea Edu version 1\develop\DataAccess\obj\Debug\DataAccess.Resources.resources
+E:\Projects\Project_1002\Idea Edu version 1\develop\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+E:\Projects\Project_1002\Idea Edu version 1\develop\DataAccess\obj\Debug\DataAccess.dll
+E:\Projects\Project_1002\Idea Edu version 1\develop\DataAccess\obj\Debug\DataAccess.xml
+E:\Projects\Project_1002\Idea Edu version 1\develop\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects\Project_1002\dev01\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\Project_1002\dev01\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\Project_1002\dev01\DataAccess\bin\Debug\DataAccess.xml
+D:\Projects\Project_1002\dev01\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Projects\Project_1002\dev01\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\Projects\Project_1002\dev01\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\Project_1002\dev01\DataAccess\obj\Debug\DataAccess.xml
+D:\Projects\Project_1002\dev01\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects\Project_1002\dev02\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\Project_1002\dev02\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\Project_1002\dev02\DataAccess\bin\Debug\DataAccess.xml
+D:\Projects\Project_1002\dev02\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Projects\Project_1002\dev02\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\Projects\Project_1002\dev02\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\Project_1002\dev02\DataAccess\obj\Debug\DataAccess.xml
+D:\Projects\Project_1002\dev02\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects\Project_1002\dev04\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\Project_1002\dev04\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\Project_1002\dev04\DataAccess\bin\Debug\DataAccess.xml
+D:\Projects\Project_1002\dev04\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Projects\Project_1002\dev04\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\Projects\Project_1002\dev04\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\Project_1002\dev04\DataAccess\obj\Debug\DataAccess.xml
+D:\Projects\Project_1002\dev04\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects\Project_1002\Ideadev05\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\Project_1002\Ideadev05\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\Project_1002\Ideadev05\DataAccess\bin\Debug\DataAccess.xml
+D:\Projects\Project_1002\Ideadev05\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Projects\Project_1002\Ideadev05\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\Projects\Project_1002\Ideadev05\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\Project_1002\Ideadev05\DataAccess\obj\Debug\DataAccess.xml
+D:\Projects\Project_1002\Ideadev05\DataAccess\obj\Debug\DataAccess.pdb
+E:\IdeaEdu.in\Ideadev05\DataAccess\bin\Debug\DataAccess.dll
+E:\IdeaEdu.in\Ideadev05\DataAccess\bin\Debug\DataAccess.pdb
+E:\IdeaEdu.in\Ideadev05\DataAccess\bin\Debug\DataAccess.xml
+E:\IdeaEdu.in\Ideadev05\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\IdeaEdu.in\Ideadev05\DataAccess\obj\Debug\DataAccess.Resources.resources
+E:\IdeaEdu.in\Ideadev05\DataAccess\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\IdeaEdu.in\Ideadev05\DataAccess\obj\Debug\ResGen.read.1.tlog
+E:\IdeaEdu.in\Ideadev05\DataAccess\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\IdeaEdu.in\Ideadev05\DataAccess\obj\Debug\ResGen.write.1.tlog
+E:\IdeaEdu.in\Ideadev05\DataAccess\obj\Debug\DataAccess.dll
+E:\IdeaEdu.in\Ideadev05\DataAccess\obj\Debug\DataAccess.xml
+E:\IdeaEdu.in\Ideadev05\DataAccess\obj\Debug\DataAccess.pdb
+D:\IDEA\IdeaEdu.in\Ideadev05\DataAccess\bin\Debug\DataAccess.dll
+D:\IDEA\IdeaEdu.in\Ideadev05\DataAccess\bin\Debug\DataAccess.pdb
+D:\IDEA\IdeaEdu.in\Ideadev05\DataAccess\bin\Debug\DataAccess.xml
+D:\IDEA\IdeaEdu.in\Ideadev05\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\IDEA\IdeaEdu.in\Ideadev05\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\IDEA\IdeaEdu.in\Ideadev05\DataAccess\obj\Debug\DataAccess.dll
+D:\IDEA\IdeaEdu.in\Ideadev05\DataAccess\obj\Debug\DataAccess.xml
+D:\IDEA\IdeaEdu.in\Ideadev05\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects\Project_1002\dev06\Ideadev05\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\Project_1002\dev06\Ideadev05\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\Project_1002\dev06\Ideadev05\DataAccess\bin\Debug\DataAccess.xml
+D:\Projects\Project_1002\dev06\Ideadev05\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Projects\Project_1002\dev06\Ideadev05\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\Projects\Project_1002\dev06\Ideadev05\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\Project_1002\dev06\Ideadev05\DataAccess\obj\Debug\DataAccess.xml
+D:\Projects\Project_1002\dev06\Ideadev05\DataAccess\obj\Debug\DataAccess.pdb
+E:\IdeaEdu.in\dev06\Ideadev05\DataAccess\bin\Debug\DataAccess.dll
+E:\IdeaEdu.in\dev06\Ideadev05\DataAccess\bin\Debug\DataAccess.pdb
+E:\IdeaEdu.in\dev06\Ideadev05\DataAccess\bin\Debug\DataAccess.xml
+E:\IdeaEdu.in\dev06\Ideadev05\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\IdeaEdu.in\dev06\Ideadev05\DataAccess\obj\Debug\DataAccess.Resources.resources
+E:\IdeaEdu.in\dev06\Ideadev05\DataAccess\obj\Debug\ResGen.read.1.tlog
+E:\IdeaEdu.in\dev06\Ideadev05\DataAccess\obj\Debug\ResGen.write.1.tlog
+E:\IdeaEdu.in\dev06\Ideadev05\DataAccess\obj\Debug\DataAccess.dll
+E:\IdeaEdu.in\dev06\Ideadev05\DataAccess\obj\Debug\DataAccess.xml
+E:\IdeaEdu.in\dev06\Ideadev05\DataAccess\obj\Debug\DataAccess.pdb
+E:\IdeaEdu.in\dev07\DataAccess\bin\Debug\DataAccess.dll
+E:\IdeaEdu.in\dev07\DataAccess\bin\Debug\DataAccess.pdb
+E:\IdeaEdu.in\dev07\DataAccess\bin\Debug\DataAccess.xml
+E:\IdeaEdu.in\dev07\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\IdeaEdu.in\dev07\DataAccess\obj\Debug\DataAccess.Resources.resources
+E:\IdeaEdu.in\dev07\DataAccess\obj\Debug\ResGen.read.1.tlog
+E:\IdeaEdu.in\dev07\DataAccess\obj\Debug\ResGen.write.1.tlog
+E:\IdeaEdu.in\dev07\DataAccess\obj\Debug\DataAccess.dll
+E:\IdeaEdu.in\dev07\DataAccess\obj\Debug\DataAccess.xml
+E:\IdeaEdu.in\dev07\DataAccess\obj\Debug\DataAccess.pdb
+D:\Client_project\idea(23-09-2015)\dev07\DataAccess\bin\Debug\DataAccess.dll
+D:\Client_project\idea(23-09-2015)\dev07\DataAccess\bin\Debug\DataAccess.pdb
+D:\Client_project\idea(23-09-2015)\dev07\DataAccess\bin\Debug\DataAccess.xml
+D:\Client_project\idea(23-09-2015)\dev07\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Client_project\idea(23-09-2015)\dev07\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\Client_project\idea(23-09-2015)\dev07\DataAccess\obj\Debug\DataAccess.dll
+D:\Client_project\idea(23-09-2015)\dev07\DataAccess\obj\Debug\DataAccess.xml
+D:\Client_project\idea(23-09-2015)\dev07\DataAccess\obj\Debug\DataAccess.pdb
+E:\IdeaEdu.in\idea(23-09-2015)\dev07\DataAccess\bin\Debug\DataAccess.dll
+E:\IdeaEdu.in\idea(23-09-2015)\dev07\DataAccess\bin\Debug\DataAccess.pdb
+E:\IdeaEdu.in\idea(23-09-2015)\dev07\DataAccess\bin\Debug\DataAccess.xml
+E:\IdeaEdu.in\idea(23-09-2015)\dev07\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\IdeaEdu.in\idea(23-09-2015)\dev07\DataAccess\obj\Debug\DataAccess.Resources.resources
+E:\IdeaEdu.in\idea(23-09-2015)\dev07\DataAccess\obj\Debug\ResGen.read.1.tlog
+E:\IdeaEdu.in\idea(23-09-2015)\dev07\DataAccess\obj\Debug\ResGen.write.1.tlog
+E:\IdeaEdu.in\idea(23-09-2015)\dev07\DataAccess\obj\Debug\DataAccess.dll
+E:\IdeaEdu.in\idea(23-09-2015)\dev07\DataAccess\obj\Debug\DataAccess.xml
+E:\IdeaEdu.in\idea(23-09-2015)\dev07\DataAccess\obj\Debug\DataAccess.pdb
+E:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\bin\Debug\DataAccess.dll
+E:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\bin\Debug\DataAccess.pdb
+E:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\bin\Debug\DataAccess.xml
+E:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.Resources.resources
+E:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\obj\Debug\ResGen.read.1.tlog
+E:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\obj\Debug\ResGen.write.1.tlog
+E:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.dll
+E:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.xml
+E:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.pdb
+D:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\bin\Debug\DataAccess.dll
+D:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\bin\Debug\DataAccess.pdb
+D:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\bin\Debug\DataAccess.xml
+D:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.dll
+D:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.xml
+D:\IdeaEdu.in\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.pdb
+D:\Client_project\idea\idea(05-12-2015)\dev07\DataAccess\bin\Debug\DataAccess.dll
+D:\Client_project\idea\idea(05-12-2015)\dev07\DataAccess\bin\Debug\DataAccess.pdb
+D:\Client_project\idea\idea(05-12-2015)\dev07\DataAccess\bin\Debug\DataAccess.xml
+D:\Client_project\idea\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Client_project\idea\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\Client_project\idea\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.dll
+D:\Client_project\idea\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.xml
+D:\Client_project\idea\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.pdb
+D:\idea\idea(05-12-2015)\dev07\DataAccess\bin\Debug\DataAccess.dll
+D:\idea\idea(05-12-2015)\dev07\DataAccess\bin\Debug\DataAccess.pdb
+D:\idea\idea(05-12-2015)\dev07\DataAccess\bin\Debug\DataAccess.xml
+D:\idea\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\idea\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\idea\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.dll
+D:\idea\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.xml
+D:\idea\idea(05-12-2015)\dev07\DataAccess\obj\Debug\DataAccess.pdb
+D:\idea(4-01-2016)\dev07\DataAccess\bin\Debug\DataAccess.dll
+D:\idea(4-01-2016)\dev07\DataAccess\bin\Debug\DataAccess.pdb
+D:\idea(4-01-2016)\dev07\DataAccess\bin\Debug\DataAccess.xml
+D:\idea(4-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\idea(4-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\idea(4-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.dll
+D:\idea(4-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.xml
+D:\idea(4-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.pdb
+H:\idea(4-01-2016)\dev07\DataAccess\bin\Debug\DataAccess.dll
+H:\idea(4-01-2016)\dev07\DataAccess\bin\Debug\DataAccess.pdb
+H:\idea(4-01-2016)\dev07\DataAccess\bin\Debug\DataAccess.xml
+H:\idea(4-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.Resources.resources
+H:\idea(4-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+H:\idea(4-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.dll
+H:\idea(4-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.xml
+H:\idea(4-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.pdb
+H:\idea(24-01-2016)\dev07\DataAccess\bin\Debug\DataAccess.dll
+H:\idea(24-01-2016)\dev07\DataAccess\bin\Debug\DataAccess.pdb
+H:\idea(24-01-2016)\dev07\DataAccess\bin\Debug\DataAccess.xml
+H:\idea(24-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.Resources.resources
+H:\idea(24-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+H:\idea(24-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.dll
+H:\idea(24-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.xml
+H:\idea(24-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.pdb
+H:\Idea(30-01-2016)\dev07\DataAccess\bin\Debug\DataAccess.dll
+H:\Idea(30-01-2016)\dev07\DataAccess\bin\Debug\DataAccess.pdb
+H:\Idea(30-01-2016)\dev07\DataAccess\bin\Debug\DataAccess.xml
+H:\Idea(30-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.Resources.resources
+H:\Idea(30-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+H:\Idea(30-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.dll
+H:\Idea(30-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.xml
+H:\Idea(30-01-2016)\dev07\DataAccess\obj\Debug\DataAccess.pdb
+H:\idea(03-03-2016)\dev07\DataAccess\bin\Debug\DataAccess.dll
+H:\idea(03-03-2016)\dev07\DataAccess\bin\Debug\DataAccess.pdb
+H:\idea(03-03-2016)\dev07\DataAccess\bin\Debug\DataAccess.xml
+H:\idea(03-03-2016)\dev07\DataAccess\obj\Debug\DataAccess.Resources.resources
+H:\idea(03-03-2016)\dev07\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+H:\idea(03-03-2016)\dev07\DataAccess\obj\Debug\DataAccess.dll
+H:\idea(03-03-2016)\dev07\DataAccess\obj\Debug\DataAccess.xml
+H:\idea(03-03-2016)\dev07\DataAccess\obj\Debug\DataAccess.pdb
+D:\Client_project\IdeaLearningInstitute\dev07\DataAccess\bin\Debug\DataAccess.dll
+D:\Client_project\IdeaLearningInstitute\dev07\DataAccess\bin\Debug\DataAccess.pdb
+D:\Client_project\IdeaLearningInstitute\dev07\DataAccess\bin\Debug\DataAccess.xml
+D:\Client_project\IdeaLearningInstitute\dev07\DataAccess\obj\Debug\DataAccess.Resources.resources
+D:\Client_project\IdeaLearningInstitute\dev07\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\Client_project\IdeaLearningInstitute\dev07\DataAccess\obj\Debug\DataAccess.dll
+D:\Client_project\IdeaLearningInstitute\dev07\DataAccess\obj\Debug\DataAccess.xml
+D:\Client_project\IdeaLearningInstitute\dev07\DataAccess\obj\Debug\DataAccess.pdb
+E:\Client_project\idea\idealearning(03-04-2018)\DataAccess\bin\Debug\DataAccess.dll
+E:\Client_project\idea\idealearning(03-04-2018)\DataAccess\bin\Debug\DataAccess.pdb
+E:\Client_project\idea\idealearning(03-04-2018)\DataAccess\bin\Debug\DataAccess.xml
+E:\Client_project\idea\idealearning(03-04-2018)\DataAccess\obj\Debug\DataAccess.vbprojResolveAssemblyReference.cache
+E:\Client_project\idea\idealearning(03-04-2018)\DataAccess\obj\Debug\DataAccess.Resources.resources
+E:\Client_project\idea\idealearning(03-04-2018)\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+E:\Client_project\idea\idealearning(03-04-2018)\DataAccess\obj\Debug\DataAccess.dll
+E:\Client_project\idea\idealearning(03-04-2018)\DataAccess\obj\Debug\DataAccess.xml
+E:\Client_project\idea\idealearning(03-04-2018)\DataAccess\obj\Debug\DataAccess.pdb

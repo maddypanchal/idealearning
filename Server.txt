@@ -1,0 +1,223 @@
+Regular Test (Sub.)
+Regular Test (Obj.)/DPP
+Dristhi Test Series(PCM)
+Dristhi Test Series (PCB)
+
+
+
+86990551
+Rakesh@2015
+RAKESH@2015
+Maddy@123
+
+
+targetoverseaskkr.com
+
+ideaedu
+
+b444u@yahoo.com
+
+iDEAeDU@123
+
+50.63.202.57
+
+https://gateway.godaddy.com/account/setup_account?marketid=en-IN&regionsite=in
+
+https://sg2nwvpweb045.shr.prod.sin2.secureserver.net:8443/smb/
+
+
+
+ Database name = Target 
+
+ Database user name = TargetOver
+
+PASSWORD = MADDY@123@
+
+
+
+http://www.satakshiweblinks.com/default.aspx#content
+
+rakeshpanchal32@gmail.com
+
+https://a2nwvpweb102.shr.prod.iad2.secureserver.net:8443/login_up.php3
+
+9416141315
+
+<add key="ConnectionString" value="server=198.71.226.2; database=ideaedu; uid=idea; pwd=maddy@123"/>
+		<add key="ApplicationPath" value="http://ideaedu.in/"/>
+
+<add key="ConnectionString" value="server=198.71.226.2; database=ideaedu; uid=idea; pwd=maddy@123"/>
+		<add key="ApplicationPath" value="http://ideaedu.in/"/>
+
+
+     <br />
+                For Appointment :- 01744-226768,9416141315
+  <br /> Please visit IDEA Office to collect Your prise & Career Advice
+
+
+
+
+for modern feed   
+
+datebase name =  Modern
+user name = ModernFeed
+password = Modern@123
+
+
+
+
+<?xml version="1.0"?>
+<!--
+  For more information on how to configure your ASP.NET application, please visit
+  http://go.microsoft.com/fwlink/?LinkId=169433
+  -->
+<configuration>
+<appSettings>
+		<add key="ConnectionString" value="server=198.71.226.2; database=ideaedu; uid=idea; pwd=maddy@123"/>
+		<add key="ApplicationPath" value="http://ideaedu.in/"/>
+    <add key="Delay" value="123456000"/>
+    <add key="RegNoGen" value="WBHR-00"/>
+    <add key="EmpNoGen" value="IHIDEA05-0"/>
+ </appSettings>
+  <connectionStrings>
+     <add name="getconn" connectionString="Data Source=198.71.226.2;Initial Catalog =ideaedu; uid=idea=;Password=maddy@123" providerName="System.Data.SqlClient"/>
+  </connectionStrings>
+	<system.web>
+      <sessionState mode="InProc" timeout="2"/>
+   
+		<compilation debug="true" targetFramework="4.0">
+			<assemblies>
+				<add assembly="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B77A5C561934E089"/>
+				<add assembly="System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=B03F5F7F11D50A3A"/>
+				<add assembly="System.Web.Extensions.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31BF3856AD364E35"/></assemblies></compilation>
+	  	<httpModules>
+			<add name="Myhandler" type="Myhandler"/>
+  		</httpModules>
+	  	<pages controlRenderingCompatibilityVersion="3.5" clientIDMode="AutoID"/>
+      <httpRuntime maxRequestLength="52428800" />
+
+
+
+ </system.web>
+</configuration>
+
+
+drop table TBL_I_Carrer 
+drop table TBL_I_Class
+drop table TBL_I_ClassSchedule 
+drop table tbl_I_country 
+drop table TBL_I_Course 
+drop table TBL_I_CoursesDetails 
+drop table TBL_I_Ebook 
+drop table TBL_I_Employee 
+drop table TBL_I_EmployeeWork 
+drop table TBL_I_Enquiry
+drop table TBL_I_Events 
+drop table TBL_I_Exam 
+drop table TBL_I_ExamInfo 
+drop table TBL_I_ExamSubject 
+drop table TBL_I_ExamTestNo 
+drop table TBL_I_FooterForm 
+drop table TBL_I_Heading 
+drop table TBL_I_Hero 
+drop table TBL_I_HomeWork 
+drop table TBL_I_HomeWrokAns 
+drop table TBL_I_Login 
+drop table TBL_I_News
+drop table TBL_I_NewsEvent 
+drop table TBL_I_Questions 
+drop table TBL_I_QuestionsImage 
+drop table TBL_I_region 
+drop table TBL_I_Registrations 
+drop table TBL_I_ReportInfo 
+drop table TBL_I_Results
+drop table TBL_I_Slider 
+drop table TBL_I_state 
+drop table TBL_I_Student 
+drop table TBL_I_Subject 
+drop table TBL_I_TestReport 
+drop table TBL_I_Toppers 
+drop table TBL_I_Years 
+drop table TBL_T_Admin 
+drop table TBL_T_Certificate 
+drop table TBL_T_Event
+drop table TBL_T_Result
+drop table TBL_T_Youtube
+
+
+
+
+DROP PROCEDURE DisplayChart
+DROP PROCEDURE DisplayCharTimeper
+DROP PROCEDURE FetchExam
+DROP PROCEDURE FetchExamById
+DROP PROCEDURE FetchExamColor
+DROP PROCEDURE FetchProfile
+DROP PROCEDURE FetchQuestion
+DROP PROCEDURE FetchQuestionBYno
+DROP PROCEDURE FetchResult
+DROP PROCEDURE FetchStudent
+DROP PROCEDURE FetchTime
+DROP PROCEDURE FetchUserAnswer
+DROP PROCEDURE ideaDate
+DROP PROCEDURE IdeaMasterInsert
+DROP PROCEDURE  IdeaMasterUpdate
+DROP PROCEDURE InsertExamAttempt
+DROP PROCEDURE Soweko_AddMasterDetails
+DROP PROCEDURE Soweko_Button_Display
+DROP PROCEDURE Soweko_FillMasterDetails
+DROP PROCEDURE UpdateExamResult
+DROP PROCEDURE USP_AddExamSubject
+DROP PROCEDURE USP_AddTestReport
+DROP PROCEDURE USP_I_ADD_COUNTRY
+DROP PROCEDURE USP_I_Add_Heading 
+DROP PROCEDURE  USP_I_ADD_REGION  
+DROP PROCEDURE  USP_I_ADD_STATE
+DROP PROCEDURE  USP_I_AddAns
+DROP PROCEDURE USP_I_AddAnswerImage
+DROP PROCEDURE  USP_I_AddCourses
+DROP PROCEDURE  USP_I_AddEnquiry
+DROP PROCEDURE USP_I_AddEvents
+
+DROP PROCEDURE USP_I_AddSlider
+DROP PROCEDURE  USP_I_AddSlider
+DROP PROCEDURE USP_I_AddStudent
+DROP PROCEDURE USP_I_AddTestNo
+DROP PROCEDURE USP_I_AddToppers
+DROP PROCEDURE  USP_I_AddYears
+DROP PROCEDURE USP_I_ADMIN_LOGIN
+DROP PROCEDURE USP_I_DeleteMasterDetails
+DROP PROCEDURE USP_I_DisplayHeroImages
+DROP PROCEDURE USP_I_DisplayTopperImages
+DROP PROCEDURE USP_I_EMPLOYEE_LOGIN
+DROP PROCEDURE USP_I_ExamCourses
+DROP PROCEDURE USP_I_Fill_ddl_Exam_Test
+DROP PROCEDURE USP_I_FillCity
+DROP PROCEDURE USP_I_FillCountryCity
+DROP PROCEDURE USP_I_FillCountryState
+DROP PROCEDURE USP_I_FillCountryStateCity1
+DROP PROCEDURE USP_I_FillExamSubject
+DROP PROCEDURE USP_I_FillMasterDetails
+DROP PROCEDURE USP_I_FooterForm
+DROP PROCEDURE USP_I_HeaderForm
+DROP PROCEDURE USP_I_LOGIN_EXAM
+DROP PROCEDURE USP_I_REGISTER_EXAM
+DROP PROCEDURE USP_I_REPETER
+DROP PROCEDURE USP_I_Result
+DROP PROCEDURE USP_I_STUDENT_LOGIN
+DROP PROCEDURE USP_I_UpdatePassword
+DROP PROCEDURE USP_I_UPLOAD_PHOTO
+DROP PROCEDURE USP_I_UPLOAD_SIGNATURE
+DROP PROCEDURE USP_NewResult
+DROP PROCEDURE USP_Soweko_DeleteMasterDetails
+DROP PROCEDURE USP_T_AddCertificate
+DROP PROCEDURE USP_T_AddEvent
+DROP PROCEDURE USP_T_AddResult
+DROP PROCEDURE USP_T_DeleteMasterDetails
+DROP PROCEDURE USP_T_FillMasterDetails
+DROP PROCEDURE _T_LOGIN
+DROP PROCEDURE _T_REPETER
+DROP PROCEDURE _T_UpdateMasterDetails
+DROP PROCEDURE  dbo.Verify_Login
+
+

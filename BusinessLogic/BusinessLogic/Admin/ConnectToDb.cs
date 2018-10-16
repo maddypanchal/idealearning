@@ -1,0 +1,113 @@
+using System;
+using System.Data;
+using System.Configuration;
+using System.Web;
+//using System.Web.Security;
+//using System.Web.UI;
+//using System.Web.UI.WebControls;
+//using System.Web.UI.WebControls.WebParts;
+//using System.Web.UI.HtmlControls;
+using System.Data.SqlClient;
+
+/// <summary>
+/// Summary description for ConnectToDb
+/// </summary>
+public class ConnectToDb
+{
+
+    public string connectionstring;
+    SqlConnection con;
+    SqlCommand cmd = new SqlCommand();
+    SqlDataAdapter Da = new SqlDataAdapter();
+    SqlDataReader Dr;
+    DataSet Ds = new DataSet();
+	public ConnectToDb()
+	{
+       // con = new SqlConnection(ConfigurationManager.AppSettings["connectionstring"].ToString());
+    }
+    public bool logmein(string StudentID, string StudentName)
+    {
+        return true;
+    }
+    public string adminlogin(string uid, string pwd)
+    {
+        return "admin";
+    }
+    public string PostQuestion(string tname,string tnumber,string question,string ans1,string ans2,string ans3,string ans4,int correctans)
+    {
+        return "success";
+    }
+    public void answer(string studentID, string tname, string tnumber, string sno, int ans)
+    {
+         //Code to post the answer to table
+    }
+    public DataSet getTestList (string procedurename)
+    {
+        DataSet QuestionSet = new DataSet();
+        DataTable QTable = new DataTable();
+        QTable.Columns.Add("TESTNAME");
+        QTable.Columns.Add("TESTNUMBER");
+        DataRow dr;
+        for (int i = 0; i < 5; i++)
+        {
+            dr = QTable.NewRow();
+            
+            dr[0] = "TEST_NO:" + i;
+            dr[1] = "TestName:" + i;
+            
+            QTable.Rows.Add(dr);
+        }
+
+        QuestionSet.Tables.Add(QTable);
+
+        return QuestionSet;
+    }
+
+    public Int32 GetCount(string tno)
+    {
+        return 10;
+    }
+
+    public DataSet GetDataSet(string query)
+    {
+        DataSet QuestionSet = new DataSet();
+        DataTable QTable = new DataTable();
+        QTable.Columns.Add("ROW_NUMBER");
+        QTable.Columns.Add("QuestionNo");
+        QTable.Columns.Add("Tname");
+        QTable.Columns.Add("Tnumber");
+        QTable.Columns.Add("question");
+        QTable.Columns.Add("ans1");
+        QTable.Columns.Add("ans2");
+        QTable.Columns.Add("ans3");
+        QTable.Columns.Add("ans4");
+
+        DataRow dr;
+        for (int i = 0; i < 10; i++)
+        {
+            dr = QTable.NewRow();
+            dr[0] =  i;
+            dr[1] = "Qno" + i;
+            dr[2] = "TST001";
+            dr[3] = "TST001";
+            dr[4] = "Is n't so nice to have this test project in place ?";
+            dr[5] = "Option1";
+            dr[6] = "Option2";
+            dr[7] = "Option3";
+            dr[8] = "Option4";
+
+            QTable.Rows.Add(dr);
+        }
+
+        QuestionSet.Tables.Add(QTable);
+
+        return QuestionSet;
+
+    }
+
+    public void DropTest(string tnumber)
+    {
+        // code to delete the test
+    }
+    
+}

@@ -1,0 +1,108 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Student.master.cs" Inherits="Student_Student" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Idea Academy Student</title>
+     <link href="../css/Master.css" rel="stylesheet" type="text/css" />
+     <link href="../css/main.css" rel="stylesheet" type="text/css" media="all">
+     <link href="../css/mediaqueries.css" rel="stylesheet" type="text/css" media="all">
+     <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+     <link rel="icon" href="../images/favicon.ico" type="image/x-icon">
+     <asp:ContentPlaceHolder id="head" runat="server">
+
+     </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+<div class="masterhead">
+       <div class="wrapper row1">
+  <header id="header" class="full_width clear">
+    <div id="hgroup">
+      <a href="../Index.aspx"><img src="../images/logo1.png"/></a>
+      <h2 style="font-size:24px; font-family:candara; float:right; color:#fff;"></h2>
+    </div>
+    <div id="header-contact">
+      <ul class="list none">
+            <li><span class="icon-envelope"></span> <a href="#">idea.learning.academy@gmail.com</a></li>
+        <li><span class="icon-phone"></span> 0171-2550007</li>
+      </ul>
+       <b> <asp:Label ID="lblUserName" runat="server" Text=""></asp:Label></b>
+     <%--  <a href="../OnlineExam/IdeaOnlineExam/Home.aspx" ><img src="../images/online.gif"  style="width:150px; height:35px; float:right;"/></a>--%>
+    </div>
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<div class="wrapper row2">
+  <nav id="topnav">
+    <ul class="clear">
+      <li class="active"><a id="Admin" runat="server" title="Student">Student Profile</a></li>
+    <li><a class="drop" href="NewsEvents.aspx" title="News / Event">News / Event</a>
+      </li>
+     <%-- <li><a class="drop" href="#" title="Events">Notification</a>
+      </li>--%>
+        <%--<li><a class="drop" href="FeeDetails.aspx" title="Fee details">Fee details</a>--%>
+      </li>
+      <%-- <li><a class="drop" href="#" title="Slider">Exam Ahead</a>
+     </li>--%>
+       <li><a class="drop" href="#" title="Home work">Student info</a>
+       <ul>
+       <li><a href="FeeDetails.aspx" title="Fee info">Fee info</a></li>
+       <li><a href="ExamInfo.aspx" title="Exam info">Exam info</a></li>
+   <%--    <li><a href="ClassSchedule.aspx" title="Schedule info">Schedule info</a></li>--%>
+    <%--    <li><a class="drop" href="ClassSchedule.aspx" title="Class Schedule">Class Schedule</a>
+      </li>--%>
+       <li><a href="HomeWorkDetails.aspx" title="Home Work">Home Work</a></li>
+<%--       <li><a href="StudentAnsHW.aspx" title="Answer Upload">Answer Upload</a></li>--%>
+
+     
+     
+      </ul>
+      </li>
+      <%--<li><a href="ExamInfo.aspx" title="Exam info">Exam info</a></li>--%>
+       <%-- <li><a href="ViewResult.aspx" title="Result">Result</a></li>
+       <li><a href="#" title="Toppers">Exam info</a>
+       <ul>
+       <li><a href="#" title="Toppers">Regular Test</a></li>
+       <li><a href="#" title="Toppers">Drishti Test</a></li>
+       <li><a href="#" title="Toppers">Online Test</a></li>
+       <li><a href="#" title="Toppers">Other Exam</a></li>
+      </ul>
+      </li>--%>
+      <li><a href="SyllabusDetails.aspx" title="Syllabus">Syllabus Covered</a></li>
+      <li><a class="drop" href="#" title="Class Schedule">Result & Progress</a>
+      <ul>
+      <li> <a  href="StudentProgress.aspx" title="Aakriti  Test Report">Aakriti Test Series</a></li>
+       <li> <a  href="RegularTestReport.aspx" title="Regular Test Report">Regular Test Series</a></li>
+    <%--  <li> <a  href="ViewResult.aspx" title="Result">Result</a></li>--%>
+      </ul>
+      </li>
+      <li class="last-child"><a href="attendence.aspx"  title="Attendance" >Attendance</a></li>
+      <li class="last-child"><a href="../Admin/Logout.aspx">LogOut</a></li>  
+      </ul>
+   </nav>
+   </div>
+    </div>
+   
+    <div class="wrapper row3">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+     </div>
+  
+
+    <div class="masterhead">
+      <div class="wrapper">
+    <div class="footer">
+    <a href ="../images/sonra.jpg" target="_blank">
+    <p>All copyright is reserved. Designed by </p> 
+    <p2> SonraItSolutions</p2>
+    </a>
+    
+    </div>
+    </div>
+    </div>
+   
+    </form>
+</body>
+</html>

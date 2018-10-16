@@ -1,0 +1,340 @@
+body  {
+	background:#fff;
+	margin:0 0 0 0px;
+	padding:0 0 0 0px;
+}
+.wrapper {
+	width:1000px;
+	margin:0 auto;
+}
+
+
+
+.header  {
+	width:100%;
+	background:#edede1;
+	margin:0 0 0 0px;
+	padding:0 0 0 0px;
+	float:left;
+}
+.header h1 {
+   color: rgb(69, 195, 237);
+    font-family: Helvetica;
+    font-size: 70px;
+    font-weight: normal;
+    margin: 0;
+    padding:10px 0 10px 0px;
+    text-align: center;
+    text-decoration: none;
+	text-shadow: 0 3px 0 rgb(0, 0, 0);
+}
+.nav  {
+	  background: none repeat scroll 0 0 rgb(69, 195, 255);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 0 0 25px 25px;
+    box-shadow: 0 2px 3px 0 rgb(0, 0, 0);
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+.nav ul {
+	color:#fff;
+	margin:0 0 0 0px;
+	padding:0 0 0 0px;
+	float:left;
+}
+.nav ul li {
+	color:#fff;
+	margin:0 0 0 0px;
+	padding:0 0 0 0px;
+	list-style:none;
+	text-decoration:none;
+	float:left;
+}
+
+.nav ul li a {
+	color:#fff;
+	font-family:Franklin Gothic Medium Cond;
+	font-size:20px;
+	font-weight:normal;
+	text-decoration:none;
+	margin:0 0 0 0px;
+	padding:6px 20px;
+	float:left;
+}
+.nav ul li a:hover  {
+	color:#000;
+}
+.center  {
+  background: none repeat scroll 0 0 rgb(237, 237, 225);
+    border: 2px solid rgb(255, 255, 255);
+    box-shadow: 0 1px 1px 1px rgb(0, 0, 0);
+    float: left;
+    margin:30px 0 0;
+    width: 99%;
+}
+.center h1 {
+	color:#000;
+	font-family:Franklin Gothic Medium Cond;
+	font-size:30px;
+	font-weight:normal;
+	text-align:center;
+	text-decoration:none;
+	margin:5px 0 0 0px;
+	padding:0 0 0 0px;
+	border-bottom:1px solid #666;
+	border-top:1px solid #666;
+}
+.name  {
+  border-bottom: 1px solid #dddddd;
+    float: left;
+    margin: 5px 0 0 82px;
+    padding: 0 0 10px;
+    width:36%;
+}
+.name p  {
+    color: #00aaff;
+    float: left;
+    font-family: Corbel;
+    font-size: 16px;
+	font-weight:bold;
+    margin:15px 0 0 15px;
+    padding: 0;
+    text-decoration: none;
+   
+}
+.name_Contact {
+ background: none repeat scroll 0 0 rgb(255, 255, 255);
+    border: 2px solid rgb(114, 114, 114);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1) inset, 0 0 16px rgba(0, 0, 0, 0.1);
+    color: rgb(0, 0, 0);
+    font-family: corbel;
+    font-size: 16px;
+    margin: 11px 0 0 10px;
+    padding: 3px 10px;
+	float:right;
+}
+.message_Contact {
+  background: none repeat scroll 0 0 rgb(255, 255, 255);
+    border: 2px solid rgb(114, 114, 114);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1) inset, 0 0 16px rgba(0, 0, 0, 0.1);
+    color: rgb(0, 0, 0);
+    float: right;
+    font-family: corbel;
+    font-size: 16px;
+    margin: 16px 0 10px 9px;
+    padding: 4px 10px;
+    width: 183px;
+}
+.gender {
+background: none repeat scroll 0 0 rgb(255, 255, 255);
+    border: 2px solid rgb(114, 114, 114);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1) inset, 0 0 16px rgba(0, 0, 0, 0.1);
+    float: right;
+    font-family: corbel;
+    font-size: 16px;
+	font-weight:bold;
+    margin: 11px 0 0;
+    padding: 2px 20px;
+    width: 207px;
+}
+.info  {
+	width:50%;
+	margin:15px 0 0 0px;
+	float:left;
+}
+.student {
+   float: left;
+    margin: 10px 0 0 82px;
+    padding: 0;
+    width: 70%;
+}
+.margin  {margin:10px 0 0 10px; padding:0 0 0 0px; float:left; width:76%; }
+.student p  {
+    color: #000;
+    float: left;
+    font-family: Corbel;
+    font-size: 16px;
+	font-weight:bold;
+    margin:15px 0 0 15px;
+    padding: 0;
+    text-decoration: none;
+}
+.image  {
+    background: none repeat scroll 0 0 rgb(255, 255, 255);
+    border: 2px solid rgb(128, 128, 128);
+    border-radius: 10px;
+    box-shadow: 0 0 2px 0 rgb(0, 0, 0);
+    float: left;
+    height:216px;
+    margin: 15px 0 0 42px;
+    padding: 0;
+    width:208px;
+}
+.submit {
+ background: none repeat scroll 0 0 rgb(128, 128, 128);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    box-shadow: 0 3px 0 0 rgb(64, 64, 64);
+    color: rgb(255, 255, 255);
+    float: left;
+    font-family: corbel;
+    font-size: 24px;
+    margin: 11px 0 20px 289px;
+    padding: 0 9px;
+}
+
+.lblToppers1 {
+
+    float: left;
+    font-family: Arial;
+    font-size: 20px;
+    margin: 10px 0 10px 0px;
+    padding: 0 3px;
+    color:#ab4500;
+   
+}
+
+.lblToppers {
+float: left;
+font-family: Aria;
+font-size: 20px;
+margin: -11px 6px 4px 0px;
+padding: 4px;
+color: #ffffff;
+background: #3DBCE1;
+text-align: center;
+width: 228px;
+white-space: normal;
+font-weight: 400;
+}
+
+.HeadingLable
+{
+border: 1px solid #3DBCE1;
+text-align: center;
+padding: 12px 0px 12px 3px;
+background: #3DBCE1;
+color: rgb(255, 255, 255);
+width: 839px;
+font-family: arial black;
+text-shadow: 4px 1px 2px #000;
+font-size: 35px;
+margin: 0 0 0 5px;
+}
+
+.HeadingLableTopper
+{
+border: 1px solid #3DBCE1;
+text-align: center;
+padding: 12px 0px 12px 3px;
+background: #3DBCE1;
+color: rgb(255, 255, 255);
+margin: 0 0 0 5px;
+font-family: arial black;
+text-shadow: 4px 1px 2px #000;
+font-size: 35px;
+width: 1127px;
+}
+
+.YearHeading
+{
+    border: 1px solid #3DBCE1;
+text-align: center;
+padding: 8px 0px 11px 0px;
+background: #3DBCE1;
+color: rgb(255, 255, 255);
+font-family: arial black;
+text-shadow: 4px 1px 2px #000;
+font-size: 14px;
+width: 251px;
+}
+
+
+.lblToppersHeors {
+    float: left;
+    font-family: Aria;
+    font-size: 14px;
+    margin: -11px 6px 4px 0px;
+    padding: 2px;
+    color: #ffffff;
+    background: #3DBCE1;
+    text-align: center;
+    width: 127px;
+    white-space: normal;
+    font-weight: 400;
+}
+
+
+.lblGallery {
+
+
+float: left;
+font-family: Aria;
+font-size: 20px;
+margin: 0px 0px 0px 0px;
+padding: 4px;
+color: #ffffff;
+background: #4B759F;
+text-align: center;
+
+white-space: normal;
+font-weight: 400;
+
+    
+    width: 566px;
+}
+
+
+
+
+.speaks_img
+{
+    float:left;
+    margin:0 0 0 0px;
+    padding:0 0 0 0px;
+    width:100px;
+    height:100px;
+    border: 2px solid;
+    border-radius: 10px;
+    
+}
+
+.speak_head
+{
+    float: left;
+    font-size: 18px;
+    margin: 0 10px 0 0;
+    padding: 0;
+   
+    text-align: center;
+    width: 60%;
+    
+}
+.speak_txt
+{
+    margin:0 0 0 0px;
+    padding:0 0 0 0px;
+    text-align:justify;
+    font-size:12px;
+    float:left;
+  }
+  
+  .speaks_list_img
+{
+    margin:0 0 0 0px;
+    padding:0 0 0 0px;
+    width:50px;
+    height:50px;
+    border: 2px solid;
+    border-radius: 10px;
+    float:left;
+    
+}
+.speak_div
+{
+    float:left;
+    margin:8px 4px 0 3px;
+    padding: 0 0 0 0px;
+    width:22%;
+}

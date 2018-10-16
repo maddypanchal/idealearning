@@ -1,0 +1,104 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Admin.master.cs" Inherits="Admin_Admin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+   <title>Admin</title>
+    <link href="../css/Master.css" rel="stylesheet" type="text/css" />
+  <link href="../css/main.css" rel="stylesheet" type="text/css" media="all">
+  <link href="../css/mediaqueries.css" rel="stylesheet" type="text/css" media="all">
+  <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="../images/favicon.ico" type="image/x-icon">
+  <asp:ContentPlaceHolder id="head" runat="server">
+  </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+       <div class="masterhead">
+       <div class="wrapper row1">
+    <header id="header" class="full_width clear">
+    <div id="hgroup">
+      <a href="../Index.aspx"><img src="../images/logo1.png"/></a>
+      <h2 style="font-size:24px; font-family:candara; float:right; color:#fff;"></h2>
+    </div>
+    <div id="header-contact">
+        <ul class="list none">
+        <li><span class="icon-envelope"></span> <a href="#">idea.learning.academy@gmail.com</a></li>
+        <li><span class="icon-phone"></span> 0171-2550007</li>
+        </ul>
+       <asp:Label ID="lblUserName" runat="server" Text=""></asp:Label>
+    </div>
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<div class="wrapper row2">
+    <nav id="topnav">
+    <ul class="clear">
+      <%--<li class="active"><a id="Admin" runat="server" title="Employee">Admin Info</a></li>--%>
+      <li class="active"><a class="drop" id="Emp" runat="server" title="Employee">Employee</a>
+      </li>
+       <li><a class="drop" href="#" title="Print Employee">Print</a>
+      <ul>
+      <%--<li><a class="drop" href="PrintEmployee.aspx" title="Print Employee">Employee Print</a>
+      </li>--%>
+      <li><a class="drop" href="EmployeePrint.aspx" title="Print Employee">Employee Print</a>
+      </li>
+      <%--<li><a class="drop" href="PrintStudent.aspx" title="Print Student">Student Print</a>
+      </li>--%>
+       <li><a class="drop" href="StudentDetails.aspx" title="Print Student">Student Print</a>
+      </li>
+      </ul>
+     </li>
+      <li><a class="drop" href="CarrerDetails.aspx" title="">All Delete</a> 
+           <ul class="clear">
+              <li><a class="drop" href="DeleteStudent.aspx" title="Carrer Details">Student</a> </li>
+              <li><a class="drop" href="DeleteSyllabus.aspx" title="Carrer Details">Syllabus</a> </li>
+              <li><a class="drop" href="DeletehomeWork.aspx" title="Carrer Details">home work </a> </li>
+              <li><a class="drop" href="DeleteAttendance.aspx" title="Carrer Details">Attendance</a> </li>
+      </ul>
+      </li>
+     <li><a class="drop" href="CarrerDetails.aspx" title="Carrer Details">Career Details</a> </li>
+    
+      <li><a class="drop" href="DailyReportDetails.aspx" title="DailyReprot">Daily Report</a>
+      </li>
+      
+      <li><a href="SyllabusDetails.aspx" title="Syllabus Details">Syllabus Details</a></li>
+     <li><a  href="OnlineRegStudentDetails.aspx" title="Online Student">Online Student</a></li>
+
+      <%--<li><a class="drop" href="#" title="Results">Attendance</a>
+     </li>--%>
+       <li><a class="drop" href="Logout.aspx" title="Results">Logout</a>
+     </li>
+   </ul>
+  </nav>
+</div>
+    </div>
+   
+        <div class="wrapper row3">
+  <div id="container">
+         <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+  
+
+  
+        </asp:ContentPlaceHolder>
+    </div>
+  </div>
+  
+
+    <div class="masterhead">
+      <div class="wrapper">
+    <div class="footer">
+    <a href ="../images/sonra.jpg" target="_blank">
+    <p>All copyright is reserved. Designed by </p> 
+    <p2> SonraItSolutions</p2>
+    </a>
+    
+    </div>
+    </div>
+    </div>
+   
+    </form>
+   
+</body>
+</html>

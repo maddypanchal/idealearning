@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[DataAccess.vbproj]
+SCC_Aux_Path = "\\dbserver\VSS Projects\HR"
+SCC_Project_Name = "$/HRAPP_DEMO/DataAccess", IGDAAAAA

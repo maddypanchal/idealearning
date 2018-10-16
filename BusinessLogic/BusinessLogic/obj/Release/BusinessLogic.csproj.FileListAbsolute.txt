@@ -1,0 +1,16 @@
+D:\Client_project\idea\dev07\BusinessLogic\BusinessLogic\bin\Release\BusinessLogic.dll
+D:\Client_project\idea\dev07\BusinessLogic\BusinessLogic\bin\Release\BusinessLogic.pdb
+D:\Client_project\idea\dev07\BusinessLogic\BusinessLogic\bin\Release\DataAccess.dll
+D:\Client_project\idea\dev07\BusinessLogic\BusinessLogic\bin\Release\DataAccess.pdb
+D:\Client_project\idea\dev07\BusinessLogic\BusinessLogic\bin\Release\DataAccess.xml
+D:\Client_project\idea\dev07\BusinessLogic\BusinessLogic\obj\Release\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Client_project\idea\dev07\BusinessLogic\BusinessLogic\obj\Release\BusinessLogic.dll
+D:\Client_project\idea\dev07\BusinessLogic\BusinessLogic\obj\Release\BusinessLogic.pdb
+E:\Client_project\idea\idealearning(03-04-2018)\BusinessLogic\BusinessLogic\bin\Release\BusinessLogic.dll
+E:\Client_project\idea\idealearning(03-04-2018)\BusinessLogic\BusinessLogic\bin\Release\BusinessLogic.pdb
+E:\Client_project\idea\idealearning(03-04-2018)\BusinessLogic\BusinessLogic\bin\Release\DataAccess.dll
+E:\Client_project\idea\idealearning(03-04-2018)\BusinessLogic\BusinessLogic\bin\Release\DataAccess.pdb
+E:\Client_project\idea\idealearning(03-04-2018)\BusinessLogic\BusinessLogic\bin\Release\DataAccess.xml
+E:\Client_project\idea\idealearning(03-04-2018)\BusinessLogic\BusinessLogic\obj\Release\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Client_project\idea\idealearning(03-04-2018)\BusinessLogic\BusinessLogic\obj\Release\BusinessLogic.dll
+E:\Client_project\idea\idealearning(03-04-2018)\BusinessLogic\BusinessLogic\obj\Release\BusinessLogic.pdb

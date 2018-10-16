@@ -1,0 +1,260 @@
+﻿body
+{
+    background: #fff;
+    margin: 0 0 0 0px;
+    padding: 0 0 0 0px;
+}
+.wrapper
+{
+    width: 1000px;
+    margin: 0 auto;
+}
+.header
+{
+    width: 100%;
+    background: #333;
+    margin: 0 0 0 0px;
+    padding: 0 0 0 0px;
+    float: left;
+}
+.header h1
+{
+    color: #ef7300;
+    font-family: Helvetica;
+    font-size: 70px;
+    font-weight: normal;
+    margin: 0;
+    padding: 10px 0 10px 0px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 4px 2px 5px #fff;
+}
+
+
+.center
+{
+    background: none repeat scroll 0 0 #fff;
+    box-shadow: 0 3px 28px 0 #000;
+    float: left;
+    margin: 108px 0 0 14px;
+    padding: 0;
+    width: 500px;
+}
+.center h1
+{
+    color: #333;
+    font-family: Franklin Gothic Medium Cond;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 0 0 0px;
+    padding: 0 0 0 0px;
+    border-bottom: 1px solid #666;
+    border-top: 1px solid #666;
+}
+
+.center_Forget
+{
+    background: none repeat scroll 0 0 #fff;
+    box-shadow: 0 3px 28px 0 #000;
+    float: left;
+    margin: 108px 0 0 100px;
+    padding: 0;
+    width: 325px;
+}
+.center_Forget h1
+{
+    color: #333;
+    font-family: Franklin Gothic Medium Cond;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 0 0 0px;
+    padding: 0 0 0 0px;
+    border-bottom: 1px solid #666;
+    border-top: 1px solid #666;
+}
+.name
+{
+    border-bottom: 1px solid #dddddd;
+    float: left;
+    margin: 5px 0 0 82px;
+    padding: 0 0 10px;
+    width: 36%;
+}
+.name p
+{
+    color: #00aaff;
+    float: left;
+    font-family: Corbel;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 15px 0 0 15px;
+    padding: 0;
+    text-decoration: none;
+}
+.name_Contact
+{
+    background: none repeat scroll 0 0 rgb(255, 255, 255);
+    border: 2px solid rgb(114, 114, 114);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1) inset, 0 0 16px rgba(0, 0, 0, 0.1);
+    color: rgb(0, 0, 0);
+    font-family: corbel;
+    font-size: 16px;
+    margin: 11px 0 0 10px;
+    padding: 3px 10px;
+    float: right;
+}
+.message_Contact
+{
+    background: none repeat scroll 0 0 rgb(255, 255, 255);
+    border: 2px solid rgb(114, 114, 114);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1) inset, 0 0 16px rgba(0, 0, 0, 0.1);
+    color: rgb(0, 0, 0);
+    float: right;
+    font-family: corbel;
+    font-size: 16px;
+    margin: 16px 0 10px 9px;
+    padding: 4px 10px;
+    width: 183px;
+}
+.gender
+{
+    background: none repeat scroll 0 0 rgb(255, 255, 255);
+    border: 2px solid rgb(114, 114, 114);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1) inset, 0 0 16px rgba(0, 0, 0, 0.1);
+    float: right;
+    font-family: corbel;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 11px 0 0;
+    padding: 2px 20px;
+    width: 207px;
+}
+
+
+
+
+.info
+{
+    width: 50%;
+    margin: 15px 0 0 0px;
+    float: left;
+}
+
+
+
+.student
+{
+    margin: 0 auto;
+    padding: 4px 3px 0;
+    width: 90%;
+}
+.margin
+{
+    margin: 10px 0 0 10px;
+    padding: 0 0 0 0px;
+    float: left;
+    width: 76%;
+}
+
+.student p
+{
+    color: #ef7300;
+    float: left;
+    font-family: Corbel;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 15px 0 0 28px;
+    padding: 0;
+    text-decoration: none;
+}
+.image
+{
+    background: none repeat scroll 0 0 rgb(255, 255, 255);
+    border: 2px solid rgb(128, 128, 128);
+    border-radius: 10px;
+    box-shadow: 0 0 2px 0 rgb(0, 0, 0);
+    float: left;
+    height: 216px;
+    margin: 15px 0 0 42px;
+    padding: 0;
+    width: 208px;
+}
+.submit
+{
+    background: none repeat scroll 0 0 rgb(128, 128, 128);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    box-shadow: 0 3px 0 0 rgb(64, 64, 64);
+    color: rgb(255, 255, 255);
+    float: left;
+    font-family: corbel;
+    font-size: 24px;
+    margin: 11px 0 20px 266px;
+    padding: 0 9px;
+}
+
+.submit_Forget
+{
+    background: none repeat scroll 0 0 rgb(128, 128, 128);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    box-shadow: 0 3px 0 0 rgb(64, 64, 64);
+    color: rgb(255, 255, 255);
+    float: left;
+    font-family: corbel;
+    font-size: 24px;
+    margin: 11px 0 20px 45px;
+    padding: 0 9px;
+}
+
+
+.loginLable
+{
+    color: #2b5923;
+    font-family: Arial;
+    font-size: 14px;
+    margin: 12px 10px 10px 32px;
+    float: left;
+}
+
+.BtnSubmit
+{
+    margin: 0 0 0 0px;
+    padding: 0 0 0 0px;
+    width: 100%;
+}
+
+.loginImages
+{
+    border-right: 2px solid #ef7300;
+    box-shadow: 0 9px 57px #333334;
+    float: left;
+    margin: 43px 13px 1px;
+    padding: 4px 15px;
+    width: 400px;
+}
+
+
+.Forgetpsssword
+{
+  
+    float: right;
+    margin: 11px -74px 10px 0px;
+    padding: 0;
+    width: 200px;
+}
+
+.Forgetpsssword a
+{
+    color: red;
+    float: left;
+    font-size: 14px;
+    list-style: outside none none;
+    padding: 0;
+    text-decoration: none;
+    width: 200px;
+}

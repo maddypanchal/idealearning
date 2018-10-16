@@ -1,0 +1,74 @@
+﻿body   {
+	background:#fff;
+	margin:0px;
+	padding:0px;
+}
+h1 {
+	color:#000;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+	margin:10px 0 0 0px;
+	padding:0px;
+}
+h2 {   color: #000;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 2px 0 10px;
+    padding: 0;
+    text-align: center;
+    text-decoration: underline;
+}
+p {   color: #000;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 2px 0 5px 2px;
+    padding: 0;
+	float:left;
+    
+}
+.wrapper  {
+	width:1340px;
+	margin:0 auto;
+}
+.content {
+	border:2px solid #000;
+	width:100%;
+	margin:0px;
+	float:left;
+}
+.left  {
+	width:442px;
+	border-right:2px solid #000;
+	margin:0px;
+	padding:0px;
+	float:left;
+}
+
+.input {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: -moz-use-text-color -moz-use-text-color #000;
+    border-image: none;
+    border-style: none none solid;
+    border-width: medium medium 2px;
+    margin: 0 0 0 10px;
+    width: 50%;
+}
+.sign  {
+	width:50%;
+	margin:0px;
+	float:left;
+}
+.remit  {
+	width:100%;
+	margin:0 0 8px 0px;
+	float:left;
+	border-bottom:1px solid;
+}
+

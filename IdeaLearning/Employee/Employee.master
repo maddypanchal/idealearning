@@ -1,0 +1,150 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Employee.master.cs" Inherits="Employee_Employee" %>
+
+
+
+<%@ Register src="menuEmp.ascx" tagname="menuEmp" tagprefix="uc1" %>
+
+
+
+
+
+<%@ Register src="MenuSimleEmp.ascx" tagname="MenuSimleEmp" tagprefix="uc2" %>
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+   <title>Idea Academy Employee</title>
+    <link href="../css/Master.css" rel="stylesheet" type="text/css" />
+ 
+<link href="../css/main.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../css/mediaqueries.css" rel="stylesheet" type="text/css" media="all"/>
+<link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon"/>
+<link rel="icon" href="../images/favicon.ico" type="image/x-icon"/>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="masterhead">
+       <div class="wrapper row1">
+  <header id="header" class="full_width clear">
+    <div id="hgroup">
+      <a href="../Index.aspx"><img src="../images/logo1.png"/></a>
+      <h2 style="font-size:24px; font-family:candara; float:right; color:#fff;"></h2>
+    </div>
+    <div id="header-contact">
+      <ul class="list none">
+        <li><span class="icon-envelope"></span> <a href="#">idea.learning.academy@gmail.com</a></li>
+        <li><span class="icon-phone"></span> 0171-2550007</li>
+      </ul>
+ <asp:Label ID="lblUserName" runat="server" Text=""></asp:Label>
+      <%-- <a href="../OnlineExam/IdeaOnlineExam/Home.aspx" ><img src="../images/online.gif"  style="width:150px; height:35px; float:right;"/></a>--%>
+    </div>
+  </header>
+</div>
+<!-- ################################################################################################ -->
+
+   
+   
+<div class="wrapper row2">
+  <nav id="topnav">
+   <ul class="clear">
+      <li class="active">
+      <a id="Admin" runat="server" title="Employee">Employee</a></li>
+
+                  <uc2:MenuSimleEmp ID="MenuSimleEmp1" runat="server" />
+                  <uc1:menuEmp ID="menuEmp1" runat="server" />
+ </ul>
+
+  
+    <%--<ul class="clear">
+      <li class="active"><a id="Admin" runat="server" title="Employee">Employee</a>
+     
+        </li>
+      <li><a class="drop" href="" title="Add Detils">Add Details</a>
+      <ul>
+        <li><a class="drop" href="Heading.aspx" title="Heading">Heading</a></li>
+          <li><a class="drop" href="EventsDetails.aspx" title="Events">Important Download</a></li>
+           <li><a class="drop" href="NewsDetails.aspx" title="News">News & Events</a></li>
+           <li><a class="drop" href="SliderDetails.aspx" title="Slider">Slider</a> </li>
+           <li> <a class="drop" href="StudentDetails.aspx" title="Student">Student</a></li>
+           <li class="last-child"><a href="AddCourses.aspx"  title="Course" >Course Home Page</a></li>
+           <li class="last-child"><a href="HomeHeros.aspx"  title="Course" >Heros Home Page</a></li>
+           <li class="last-child"><a href="ClassDetails.aspx"  title="Class" >Class</a></li>
+           <li class="last-child"><a href="ClassCourses.aspx"  title="Class" >Add Class Courses</a></li>
+           <li class="last-child"><a href="Subjects.aspx"  title="subject" >Subject</a></li>
+            <li class="last-child"><a href="NewsEvent.aspx"  title="News and Event" >Student Notice Board</a></li>
+            <li class="last-child"><a href="ClassSchedule.aspx"  title="Class Schedule" >ClassSchedule</a></li>
+            <li class="last-child"><a href="HomeWork.aspx"  title="Home Work" >HomeWork</a></li>
+             <li><a class="last-child" href="ExamInfo.aspx" title="ExamInfo">Exam Info</a></li>
+            
+        </ul>
+      </li>
+       <li><a href="" title="Toppers">Our Toppers</a>
+      <ul>
+       <li><a href="TopperDetails.aspx" title="Toppers">Toppers</a></li>
+        <li><a href="HerosDetails.aspx" title="Toppers">Heros</a></li>
+          <li class="last-child"><a href="AddYears.aspx"  title="Topper" >Add Topper Year</a></li>
+      </ul>
+      </li>
+        <li><a href="" title="Toppers">AddCountry</a>
+        <ul>
+        <li><a href="AddCountry.aspx" title="country">Country</a></li>
+        <li><a href="AddState.aspx" title="state">State</a></li>
+        <li><a href="AddCity.aspx" title="City">City</a></li>
+        </ul>
+        </li>
+   
+      
+      <li><a href="#" title="Attendence">Attendence</a> 
+      <ul>
+      <li><a href="AddAttendance.aspx"  title="AddAttendance">Attendance</a></li>
+      <li><a  href="AttendanceDetails.aspx" title="Show Attendance">Attendance Details</a></li>
+      </ul>
+      </li>
+      <li><a class="drop" href="WorkDatails.aspx" title="Daily Work">Daily Work</a></li>
+      <li><a class="drop" href="AddResult.aspx" title="Results">Results</a>
+      
+      </li>
+   
+        <li class="last-child"><a href="AddCoursesDetails.aspx" title="Courses Details">CoursesDetails</a></li>
+     
+   
+      <li class="last-child"><a href="../Admin/Logout.aspx">Logout</a></li>
+
+   
+    </ul>--%>
+  </nav>
+</div>
+
+    </div>
+  
+      <div class="wrapper row3">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+     </div>
+
+    <div class="masterhead">
+      <div class="wrapper">
+    <div class="footer">
+    <a href ="../images/sonra.jpg" target="_blank">
+    <p>All copyright is reserved. Designed by </p> 
+    <p2> SonraItSolutions</p2>
+    </a>
+    
+    </div>
+    </div>
+    </div>
+   
+    
+       
+   
+    </form>
+</body>
+</html>

@@ -1,0 +1,75 @@
+﻿/* Tab Content - menucool.com */
+
+ul.tabs
+{
+      padding: 24px 6px 6px 2px;
+    font-size:0;
+ 
+    list-style-type: none;
+
+
+}
+        
+ul.tabs li
+{
+    display: inline;
+    margin: 0;
+}
+        
+ul.tabs li a
+{
+    font: normal 22px corbel;
+    text-decoration: none;
+    position: relative;
+    padding: 7px 16px;
+    border: 1px solid #CCC;
+    border-bottom-color:#B7B7B7;
+    color: #333;
+    background: #F0F0F0 url(tabbg.gif) 0 0 repeat-x;
+    border-radius: 3px 3px 0 0;
+    outline:none;
+	margin:0 0 0 20px;
+
+}
+        
+ul.tabs li a:visited
+{
+ color: #000;
+}
+        
+ul.tabs li a:hover
+{
+ border: 1px solid #B7B7B7;
+    background:#F0F0F0 url(tabbg.gif) 0 -36px repeat-x;
+}
+        
+ul.tabs li.selected a, ul.tabs li.selected a:hover
+{
+ -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 white;
+  
+    border-image: none;
+    border-style: solid;
+    border-width: 9px;
+    color: #ef7300;
+    font-weight: bold;
+    margin: 0 0 0 20px;
+    position: relative;
+    top: 0;
+}
+ul.tabs li.selected a:hover
+{
+text-decoration: none;	
+}
+
+div.tabcontents {
+   background-color: #fff;
+  
+    border-radius: 0 3px 3px;
+    height: 110px;
+    margin: 0;
+    padding: 30px;
+}

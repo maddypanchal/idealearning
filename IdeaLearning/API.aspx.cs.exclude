@@ -1,0 +1,47 @@
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Net;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Xml;
+
+public partial class API : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+
+    }
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+        string UserName = "IITILA";
+        string Password = "fea00c9e4bXX";
+        string mobileNumber ="7206858925";
+        string Message = "this is demo text";
+        SendSms(UserName, Password, mobileNumber, Message);
+     }
+
+    
+    /// <summary>
+    /// this is sms send Funtion 
+    /// </summary>
+    /// <param name="UserName"></param>
+    /// <param name="Password"></param>
+    /// <param name="mobileNumber"></param>
+    /// <param name="Message"></param>
+    private void SendSms(string UserName, string Password, string mobileNumber, string Message)
+    {
+        string strUrl = "http://bulksms.sainfotechnologies.com/sendsms.jsp?user=" + UserName + "&password=" + Password + "&mobiles=" + mobileNumber + "&sms=" + Message + "&senderid= IITILA ";
+        WebRequest request = HttpWebRequest.Create(strUrl);
+        HttpWebResponse response = (HttpWebResponse)request.GetResponse();
+        Stream s = (Stream)response.GetResponseStream();
+        StreamReader readStream = new StreamReader(s);
+        string dataString = readStream.ReadToEnd();
+        string data = dataString.Substring(25, 7);
+        response.Close();
+        s.Close();
+        readStream.Close();
+    }
+}
